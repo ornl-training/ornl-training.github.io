@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Advanced Scientific Programming with Python and C++
-redirect_from: /advanced-programming/
 ---
 
 Instructor: [Dr. Gregory Watson](mailto:greg.watson@nyu.edu)
