@@ -1,6 +1,5 @@
 ---
 layout: default
-redirect_from: /training/
 ---
 
 This is the website for ORNL's Python and C++ programming courses for scientists. 
