@@ -1,0 +1,22 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Programming for Data Science
+tagline:          'A Jekyll theme'
+description:      'Teaching data scientists the tools they need to use computers to do data science'
+url:              http://nyu-cds.github.io/
+baseurl:          /courses
+
+author:
+  name:           'Greg Watson'
+
+github:
+  repo:           https://github.com/nyu-cds/courses/tree/master
+
+gems:
+  - jekyll-redirect-from
