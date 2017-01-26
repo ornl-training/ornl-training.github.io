@@ -14,17 +14,20 @@ scientist with in-depth skills necessary to use Python and C++ for scientific
 computing. In particular the course will cover:
 
 Basics:
+
 * Understanding the shell
 * Using Git and GitHub
 * Best-practice software engineering techniques
 
 Python:
+
 * Introduction to Python 3.5
 * The NumPy and Pandas data analysis libraries
 * The Jupyter and PyDev development environments
 * The Matplotlib 2D plotting library 
 
 C++:
+
 * Introduction to C++--14
 * The CDT development environment
 * Using Makefiles
