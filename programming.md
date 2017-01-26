@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Scientific Programming with Python and C++
-redirect_from: /programming/
+redirect_from: /scientific-programming/
 ---
 
 Instructor: [Dr. Gregory Watson](mailto:watsongr@ornl.gov)
