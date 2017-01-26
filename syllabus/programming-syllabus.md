@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Syllabus - Scientific Programming with Python and C++
-redirect_from: /syllabus-programming/
 ---
 
 #### Instructor
@@ -30,10 +29,3 @@ at [{{ site.github.url }}]({{ site.github.url }}).
 Changes to the schedule will be posted to this site so please try to check it
 periodically for updates.
 
-#### Course Management Email List
-
-In order to provide timely updates and helpful material to students, and
-to request feedback from students during the semester, I maintain a
-course email list. On the first day of class you will provide your
-preferred email for this list. Students are required to be aware of
-emails sent to this list.
