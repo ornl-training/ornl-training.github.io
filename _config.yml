@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Programming for Data Science
+title:            Programming for Scientists
 tagline:          'A Jekyll theme'
-description:      'Teaching data scientists the tools they need to use computers to do data science'
+description:      'Giving scientists the tools they need to use computers to do better science'
 url:              http://ornl-ssd.github.io/
 baseurl:          /training
 
