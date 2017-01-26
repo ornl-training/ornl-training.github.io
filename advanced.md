@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Advanced Python for Data Science
+title: Advanced Scientific Programming with Python and C++
 redirect_from: /advanced-programming/
 ---
 
