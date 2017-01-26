@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Schedule - Advanced Scientific Programming with Python and C++
-redirect_from: /schedule-advanced/
 ---
 
 ### Week 1: The Shell
