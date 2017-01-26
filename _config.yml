@@ -16,7 +16,7 @@ author:
   name:           'Greg Watson'
 
 github:
-  repo:           https://github.com/ornl-ssh/training/tree/master
+  repo:           https://github.com/ornl-ssd/training/tree/master
 
 gems:
   - jekyll-redirect-from
