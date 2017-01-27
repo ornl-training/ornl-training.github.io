@@ -20,7 +20,6 @@ Basics:
 Python:
 
 * Introduction to Python 3.5
-* Array programming with NumPy
 * The IPython and PyDev development environments
 
 C++:
