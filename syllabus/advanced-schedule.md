@@ -73,6 +73,12 @@ Topics covered:
 
 ### Week 7: [CDT and Makefiles]()
 
+Topics covered:
+
+* CDT Development Environment
+* Compiling and running C++ programs
+* Makefiles
+
 ### Week 8: [Programming with C++ I]()
 
 Topics covered:
