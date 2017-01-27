@@ -56,6 +56,33 @@ Topics covered:
 
 #### Session 1: [Compiling, Running, and Makefiles]()
 
+Topics covered:
+
+* Compiling programs
+* Running programs from the command line
+* Introduction to Makefiles
+
 #### Session 2: [CDT Development Environment]()
 
+Topics covered:
+
+* Downloading and installing CDT
+* Creating a project
+* Configuring a toolchain
+* CDT features
+
 #### Session 3: [Introduction to C++]()
+
+Topics covered:
+
+* Basic syntax
+* Data types
+* Control structures
+* Functions and scope
+* Exceptions
+* Arrays, strings, pointers, references
+* Classes & objects
+* Namespaces
+* Templates
+* Standard library
+
