@@ -45,31 +45,31 @@ Topics covered:
 
 Topics covered:
 
-* import, numpy, assignment, print, arrays, slicing, comments, statistics, matplotlib
-* for loops
-* lists, indexing, slicing, mutable vs. immutable
-* glob module
-* if statment, logical expressions
+* `import`, numpy, assignment, print, arrays, slicing, comments, statistics, matplotlib
+* `for` loops
+* Lists, indexing, slicing, mutable vs. immutable
+* `glob` module
+* `if` statment, logical expressions
 
 ### Week 5: [Programming with Python II](http://swcarpentry.github.io/python-novice-inflammation)
 
 Topics covered:
 
-* defining functions, parameters, call stack, help, docstrings, default values
-* tracebacks, types of errors
-* assertions, pre- and post-conditions, writing tests
-* debugging
-* accessing the command line
+* Defining functions, parameters, call stack, help, docstrings, default values
+* Tracebacks, types of errors
+* Assertions, pre- and post-conditions, writing tests
+* Debugging
+* Accessing the command line
 
 ### Week 6: [Programming with Python III]
 
 Topics covered:
 
-* basic data types, sequence types, dicts, sets
-* advanced functions, lambdas, comprehensions
-* classes and objects, polymorphism, exceptions
-* modules and packages
-* file I/O
+* Basic data types, sequence types, dicts, sets
+* Advanced functions, lambdas, comprehensions
+* Classes and objects, polymorphism, exceptions
+* Modules and packages
+* File I/O
 
 ### Week 7: [CDT and Makefiles]
 
