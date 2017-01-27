@@ -3,42 +3,78 @@ layout: page
 title: Schedule - Advanced Scientific Programming with Python and C++
 ---
 
-### Week 1: The Shell
+### Week 1: [The Shell](http://swcarpentry.github.io/shell-novice)
 
-* [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/)
-* [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/)
-* [Working With Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/)
-* [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/)
-* [Loops](http://swcarpentry.github.io/shell-novice/05-loop/)
-* [Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/)
-* [Finding Things](http://swcarpentry.github.io/shell-novice/07-find/)
+Topics covered:
 
-### Week 2: Version Control
+* Filesystem basics, files, directories, absolute and relative paths
+* Navigation commands, command options
+* Special directory names
+* File and directory manipulation commands
+* Using the nano editor
+* Display commands, wildcards, output redirection, pipes
+* for loops
+* Shell scripts, parameters, variables
+* Using find and grep, man command
 
-* [What is Version Control?](http://swcarpentry.github.io/git-novice/01-basics/)
-* [Setting Up Git](http://swcarpentry.github.io/git-novice/02-setup/)
-* [Creating a Repository](http://swcarpentry.github.io/git-novice/03-create/)
-* [Tracking Changes](http://swcarpentry.github.io/git-novice/04-changes/)
-* [Exploring History](http://swcarpentry.github.io/git-novice/05-history/)
-* [Ignoring Things](http://swcarpentry.github.io/git-novice/06-ignore/)
-* [Remotes in GitHub](http://swcarpentry.github.io/git-novice/07-github/)
-* [Collaborating](http://swcarpentry.github.io/git-novice/08-collab/)
-* [Conflicts](http://swcarpentry.github.io/git-novice/09-conflict/)
+### Week 2: [Version Control](http://swcarpentry.github.io/shell-novice)
 
-### Week 3: Jupyter Notebooks
+Topics covered:
 
-### Week 4: Python I
+* Creating a repository
+* Tracking changes
+* Exploring history
+* Ignoring things
+* Using remote repositories
+* Collaborating
+* Conflicts
+* Open science
+* Licensing
+* Citation
+* Hosting
 
-### Week 5: Python II
+### Week 3: [IPython, Jupyter Notebooks, and PyDev]()
 
-### Week 6: Python III
+Topics covered:
 
-### Week 7: Clean Code
+* IPython development environment
+* Jupyter notebooks
+* PyDev development environment
 
-### Week 8: Pandas I
+### Week 4: [Programming with Python I](http://swcarpentry.github.io/python-novice-inflammation)
 
-### Week 9: Pandas II
+Topics covered:
 
-### Week 10: Pandas III
+* import, numpy, assignment, print, arrays, slicing, comments, statistics, matplotlib
+* for loops
+* lists, indexing, slicing, mutable vs. immutable
+* glob module
+* if statment, logical expressions
 
-### Week 11: Pandas IV
+### Week 5: [Programming with Python II](http://swcarpentry.github.io/python-novice-inflammation)
+
+Topics covered:
+
+* defining functions, parameters, call stack, help, docstrings, default values
+* tracebacks, types of errors
+* assertions, pre- and post-conditions, writing tests
+* debugging
+* accessing the command line
+
+### Week 6: [Programming with Python III]
+
+Topics covered:
+
+* basic data types, sequence types, dicts, sets
+* advanced functions, lambdas, comprehensions
+* classes and objects, polymorphism, exceptions
+* modules and packages
+* file I/O
+
+### Week 7: [CDT and Makefiles]
+
+### Week 8: [Programming with C++ I]
+
+### Week 9: [Programming with C++ II]
+
+### Week 10: [Programming with C++ III]
