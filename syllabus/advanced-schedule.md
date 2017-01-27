@@ -61,7 +61,7 @@ Topics covered:
 * Debugging
 * Accessing the command line
 
-### Week 6: [Programming with Python III]
+### Week 6: [Programming with Python III]()
 
 Topics covered:
 
@@ -71,10 +71,10 @@ Topics covered:
 * Modules and packages
 * File I/O
 
-### Week 7: [CDT and Makefiles]
+### Week 7: [CDT and Makefiles]()
 
-### Week 8: [Programming with C++ I]
+### Week 8: [Programming with C++ I]()
 
-### Week 9: [Programming with C++ II]
+### Week 9: [Programming with C++ II]()
 
-### Week 10: [Programming with C++ III]
+### Week 10: [Programming with C++ III]()
