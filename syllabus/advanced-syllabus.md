@@ -32,7 +32,7 @@ as our primary material.
 1.  Be able to write high quality, maintainable, programs in Python and C++
 2.  Be familiar with the IPython, Jupyter, PyDev, and CDT environments for writing, 
     testing, and debugging Python and C++ code
-3.  Use the Numpy and pandas for performing complex numerical analysis tasks
+3.  Use the Numpy library for array programming
 4.  Understand the shell and how to write shell scripts
 5.  Be familiar with Git and GitHub for version control
     
