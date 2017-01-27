@@ -20,9 +20,8 @@ Session 2: Saturday, March 11, 9:00 am – 5:00 pm
 1.  Be able to write high quality, maintainable, programs in Python and C++
 2.  Be familiar with the IPython, Jupyter, PyDev, and CDT environments for writing, 
     testing, and debugging Python and C++ code
-3.  Use the Numpy library for array programming in Python
-4.  Understand the shell and how to write shell scripts
-5.  Be familiar with Git and GitHub for version control
+3.  Understand the shell and how to write shell scripts
+4.  Be familiar with Git and GitHub for version control
 
 #### Website
 
