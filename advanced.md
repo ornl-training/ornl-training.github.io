@@ -21,7 +21,7 @@ Basics:
 Python:
 
 * Programming with Python 3.5
-* The NumPy and Pandas data analysis libraries
+* Array programming with NumPy
 * The Jupyter and PyDev development environments
 * The Matplotlib 2D plotting library 
 
