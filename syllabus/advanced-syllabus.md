@@ -11,12 +11,17 @@ Email (best way to contact me): [watsongr@ornl.gov](mailto:watsongr@ornl.gov)
 
 #### Meeting Times & Location
 
-Wednesdays 9:00 am – 12:00 pm
+Mon 9:00 am - 11:00 am
+Wed 9:00 am – 11:00 am
 
 #### References
 
-* Introduction to Parallel Computing, Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar, Pearson; 2 edition (January 26, 2003), ISBN 978-0201648652
-* Big Data: Principles and best practices of scalable realtime data systems, 1st Edition, Nathan Marz, James Warren, ISBN 978-1617290343
+* Learning Python, 5th Edition by Mark Lutz, O'Reilly Media, 2013. ISBN 978-1-4493-5573-9.
+* Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython by Wes McKinny, O'Reilly Media, 2012. ISBN 978-1-4493-1979-3
+* C++ How To Program, Tenth Edition by Paul Deitel and Harvey Deitel, Pearson, 2017, ISBN 9780134448237
+* Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin, Prentice Hall, 2008. ISBN 000-0-1323-5088-2.
+* The Linux Command Line: A Complete Introduction by William E. Shotts, Jr., No Starch Press, 2012. ISBN 978-1-5932-7389-7.
+* NumPy User Guide, Web reference: http://docs.scipy.org/doc/numpy-1.8.1/user/
 
 We will also be using the
 excellent [Software Carpentry](http://software-carpentry.org) lectures
