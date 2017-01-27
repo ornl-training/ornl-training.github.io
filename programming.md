@@ -20,8 +20,8 @@ Basics:
 Python:
 
 * Introduction to Python 3.5
-* The NumPy and Pandas data analysis libraries
-* The Jupyter and PyDev development environments
+* Array programming with NumPy
+* The IPython and PyDev development environments
 
 C++:
 
