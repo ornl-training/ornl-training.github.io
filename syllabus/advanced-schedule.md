@@ -75,6 +75,36 @@ Topics covered:
 
 ### Week 8: [Programming with C++ I]()
 
+Topics covered:
+
+* Basic syntax
+* Data types
+* Variables and operators
+* Basic I/O
+* Control structures
+* Simple functions and scope
+* Exceptions
+* Arrays, strings, pointers, and references
+* Dynamic vs. static memory allocation, 
+* Data structures
+
 ### Week 9: [Programming with C++ II]()
 
+Topics covered:
+
+* OOP, inheritance, information hiding, encapsulation
+* Classes
+* Access
+* Overloading and polymorphism
+* Virtual functions
+* Namespaces
+
 ### Week 10: [Programming with C++ III]()
+
+Topics covered:
+
+* Preprocessor
+* Program structure
+* Generic programming
+* Templates
+* Standard library and STL
