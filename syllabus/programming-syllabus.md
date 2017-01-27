@@ -18,7 +18,7 @@ Session 2: Saturday, March 11, 9:00 am – 5:00 pm
 #### Course Goals
 
 1. Write high quality, maintainable Python programs
-2. Use the Numpy and pandas for performing complex numerical analysis tasks
+2. Use the Numpy library for array programming
 3. Be familiar with the Jupyter Notebook environment for writing, testing, and debugging Python code
 5. Use Unix command line tools, understand basic shell command structure, and be familiar with Git and GitHub
  
