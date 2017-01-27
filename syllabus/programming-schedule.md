@@ -5,7 +5,7 @@ title: Schedule - Scientific Programming with Python and C++
 
 ### Day 1: 
 
-#### [The Shell](http://swcarpentry.github.io/shell-novice)
+#### Session 1: [The Shell](http://swcarpentry.github.io/shell-novice)
 
 Topics covered:
 
@@ -15,7 +15,7 @@ Topics covered:
 * [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/)
 * [Loops](http://swcarpentry.github.io/shell-novice/05-loop/)
 
-#### [Version Control](http://swcarpentry.github.io/git-novice)
+#### Session 2: [Version Control](http://swcarpentry.github.io/git-novice)
 
 Topics covered:
 
@@ -29,14 +29,33 @@ Topics covered:
 * [Collaborating](http://swcarpentry.github.io/git-novice/08-collab/)
 * [Conflicts](http://swcarpentry.github.io/git-novice/09-conflict/)
 
-#### [IPython, Jupyter & PyDev]()
+#### Session 3: [IPython, Jupyter & PyDev]()
 
-#### [Introduction to Python]()
+Topics covered:
+
+* IPython development environment
+* Jupyter notebooks
+* PyDev development environment
+
+#### Session 4: [Introduction to Python]()
+
+Topics covered:
+
+* Analyzing Patient Data
+* Repeating Actions with Loops
+*	Storing Multiple Values in Lists
+*	Analyzing Data from Multiple Files
+*	Making Choices
+*	Creating Functions
+*	Errors and Exceptions
+*	Defensive Programming
+*	Debugging
+*	Command-Line Programs
 
 ### Day 2:
 
-### [Compiling, running, Makefiles]()
+#### Session 1: [Compiling, Running, and Makefiles]()
 
-#### [CDT Development Environment]()
+#### Session 2: [CDT Development Environment]()
 
-#### [Introduction to C++]()
+#### Session 3: [Introduction to C++]()
