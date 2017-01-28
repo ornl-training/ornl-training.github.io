@@ -5,8 +5,6 @@ title: Schedule - Advanced Scientific Programming with Python and C++
 
 ### Week 1: [The Shell](http://swcarpentry.github.io/shell-novice)
 
-Topics covered:
-
 * Filesystem basics, files, directories, absolute and relative paths
 * Navigation commands, command options
 * Special directory names
@@ -18,8 +16,6 @@ Topics covered:
 * Using find and grep, man command
 
 ### Week 2: [Version Control](http://swcarpentry.github.io/shell-novice)
-
-Topics covered:
 
 * Creating a repository
 * Tracking changes
@@ -35,15 +31,11 @@ Topics covered:
 
 ### Week 3: [IPython, Jupyter Notebooks, and PyDev]()
 
-Topics covered:
-
 * IPython development environment
 * Jupyter notebooks
 * PyDev development environment
 
 ### Week 4: [Programming with Python I](http://swcarpentry.github.io/python-novice-inflammation)
-
-Topics covered:
 
 * `import`, numpy, assignment, print, arrays, slicing, comments, statistics, matplotlib
 * `for` loops
@@ -53,8 +45,6 @@ Topics covered:
 
 ### Week 5: [Programming with Python II](http://swcarpentry.github.io/python-novice-inflammation)
 
-Topics covered:
-
 * Defining functions, parameters, call stack, help, docstrings, default values
 * Tracebacks, types of errors
 * Assertions, pre- and post-conditions, writing tests
@@ -62,8 +52,6 @@ Topics covered:
 * Accessing the command line
 
 ### Week 6: [Programming with Python III]()
-
-Topics covered:
 
 * Basic data types, sequence types, dicts, sets
 * Advanced functions, lambdas, comprehensions
@@ -73,15 +61,11 @@ Topics covered:
 
 ### Week 7: [CDT and Makefiles]()
 
-Topics covered:
-
 * CDT Development Environment
 * Compiling and running C++ programs
 * Makefiles
 
 ### Week 8: [Programming with C++ I]()
-
-Topics covered:
 
 * Basic syntax
 * Data types
@@ -96,8 +80,6 @@ Topics covered:
 
 ### Week 9: [Programming with C++ II]()
 
-Topics covered:
-
 * OOP, inheritance, information hiding, encapsulation
 * Classes
 * Access
@@ -106,8 +88,6 @@ Topics covered:
 * Namespaces
 
 ### Week 10: [Programming with C++ III]()
-
-Topics covered:
 
 * Preprocessor
 * Program structure
