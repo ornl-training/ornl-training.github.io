@@ -5,29 +5,29 @@ title: Schedule - Advanced Scientific Programming with Python and C++
 
 ### Week 1: [The Shell](http://swcarpentry.github.io/shell-novice)
 
-* Filesystem basics, files, directories, absolute and relative paths
-* Navigation commands, command options
-* Special directory names
-* File and directory manipulation commands
-* Using the nano editor
-* Display commands, wildcards, output redirection, pipes
-* for loops
-* Shell scripts, parameters, variables
-* Using find and grep, man command
+* [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/)
+* [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/)
+* [Working With Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/)
+* [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/)
+* [Loops](http://swcarpentry.github.io/shell-novice/05-loop/)
+* [Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/)
+* [Finding Things](http://swcarpentry.github.io/shell-novice/07-find/)
 
 ### Week 2: [Version Control](http://swcarpentry.github.io/shell-novice)
 
-* Creating a repository
-* Tracking changes
-* Exploring history
-* Ignoring things
-* Using remote repositories
-* Collaborating
-* Conflicts
-* Open science
-* Licensing
-* Citation
-* Hosting
+* [What is Version Control?](http://swcarpentry.github.io/git-novice/01-basics/)
+* [Setting Up Git](http://swcarpentry.github.io/git-novice/02-setup/)
+* [Creating a Repository](http://swcarpentry.github.io/git-novice/03-create/)
+* [Tracking Changes](http://swcarpentry.github.io/git-novice/04-changes/)
+* [Exploring History](http://swcarpentry.github.io/git-novice/05-history/)
+* [Ignoring Things](http://swcarpentry.github.io/git-novice/06-ignore/)
+* [Remotes in GitHub](http://swcarpentry.github.io/git-novice/07-github/)
+* [Collaborating](http://swcarpentry.github.io/git-novice/08-collab/)
+* [Conflicts](http://swcarpentry.github.io/git-novice/09-conflict/)
+* [Open science](http://swcarpentry.github.io/git-novice/10-open/)
+* [Licensing](http://swcarpentry.github.io/git-novice/11-licensing/)
+* [Citation](http://swcarpentry.github.io/git-novice/12-citation/)
+* [Hosting](http://swcarpentry.github.io/git-novice/13-hosting/)
 
 ### Week 3: [IPython, Jupyter Notebooks, and PyDev]()
 
