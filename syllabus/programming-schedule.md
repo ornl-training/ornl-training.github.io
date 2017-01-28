@@ -3,11 +3,9 @@ layout: page
 title: Schedule - Scientific Programming with Python and C++
 ---
 
-### Day 1: 
+### Day 1
 
 #### Session 1: [The Shell](http://swcarpentry.github.io/shell-novice)
-
-Topics covered:
 
 * [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/)
 * [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/)
@@ -16,8 +14,6 @@ Topics covered:
 * [Loops](http://swcarpentry.github.io/shell-novice/05-loop/)
 
 #### Session 2: [Version Control](http://swcarpentry.github.io/git-novice)
-
-Topics covered:
 
 * [What is Version Control?](http://swcarpentry.github.io/git-novice/01-basics/)
 * [Setting Up Git](http://swcarpentry.github.io/git-novice/02-setup/)
@@ -31,15 +27,11 @@ Topics covered:
 
 #### Session 3: [IPython, Jupyter & PyDev]()
 
-Topics covered:
-
 * IPython development environment
 * Jupyter notebooks
 * PyDev development environment
 
 #### Session 4: [Introduction to Python]()
-
-Topics covered:
 
 * Analyzing Patient Data
 * Repeating Actions with Loops
@@ -52,11 +44,9 @@ Topics covered:
 *	Debugging
 *	Command-Line Programs
 
-### Day 2:
+### Day 2
 
 #### Session 1: [Compiling, Running, and Makefiles]()
-
-Topics covered:
 
 * Compiling programs
 * Running programs from the command line
@@ -64,16 +54,12 @@ Topics covered:
 
 #### Session 2: [CDT Development Environment]()
 
-Topics covered:
-
 * Downloading and installing CDT
 * Creating a project
 * Configuring a toolchain
 * CDT features
 
 #### Session 3: [Introduction to C++]()
-
-Topics covered:
 
 * Basic syntax
 * Data types
