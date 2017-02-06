@@ -31,7 +31,7 @@ title: Schedule - Scientific Programming with Python and C++
 * Jupyter notebooks
 * PyDev development environment
 
-#### Session 4 (13:30 - 17:00): [Introduction to Python]()
+#### Session 4 (13:30 - 17:00): [Introduction to Python](http://swcarpentry.github.io/python-novice-inflammation/)
 
 * [Analyzing Patient Data](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
 * [Repeating Actions with Loops](http://swcarpentry.github.io/python-novice-inflammation/02-loop/)
