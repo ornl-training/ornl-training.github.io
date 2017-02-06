@@ -33,16 +33,16 @@ title: Schedule - Scientific Programming with Python and C++
 
 #### Session 4 (13:30 - 17:00): [Introduction to Python]()
 
-* Analyzing Patient Data
-* Repeating Actions with Loops
-*	Storing Multiple Values in Lists
-*	Analyzing Data from Multiple Files
-*	Making Choices
-*	Creating Functions
-*	Errors and Exceptions
-*	Defensive Programming
-*	Debugging
-*	Command-Line Programs
+* [Analyzing Patient Data](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
+* [Repeating Actions with Loops](http://swcarpentry.github.io/python-novice-inflammation/02-loop/)
+*	[Storing Multiple Values in Lists](http://swcarpentry.github.io/python-novice-inflammation/03-lists/)
+*	[Analyzing Data from Multiple Files](http://swcarpentry.github.io/python-novice-inflammation/04-files/)
+*	[Making Choices](http://swcarpentry.github.io/python-novice-inflammation/05-cond/)
+*	[Creating Functions](http://swcarpentry.github.io/python-novice-inflammation/06-func/)
+*	[Errors and Exceptions](http://swcarpentry.github.io/python-novice-inflammation/07-errors/)
+*	[Defensive Programming](http://swcarpentry.github.io/python-novice-inflammation/08-defensive/)
+*	[Debugging](http://swcarpentry.github.io/python-novice-inflammation/09-debugging/)
+*	[Command-Line Programs](http://swcarpentry.github.io/python-novice-inflammation/10-cmdline/)
 
 #### Breaks
 
