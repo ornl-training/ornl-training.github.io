@@ -183,7 +183,7 @@ already integrated with Eclipse.
    2. Follow the download and installation instructions. Note that this will only install the Java Runtime Environment (JRE). 
       If you are planning to do Java development in the future, you should install the 
       [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-2. Download **either** the [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/eclipse-packages/) or
+2. Download *either* the [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/eclipse-packages/) or
    [Eclipse for Parallel Application Developers](https://www.eclipse.org/downloads/eclipse-packages/) package.
 3. Unzip the archive and launch the Eclipse executable.
 4. Accept the default workspace.
@@ -199,7 +199,7 @@ already integrated with Eclipse.
    2. Follow the download and installation instructions. Note that this will only install the Java Runtime Environment (JRE). 
       If you are planning to do Java development in the future, you should install the 
       [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-2. Download **either** the [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/eclipse-packages/) or
+2. Download *either* the [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/eclipse-packages/) or
    [Eclipse for Parallel Application Developers](https://www.eclipse.org/downloads/eclipse-packages/) package.
 3. Unzip the archive and launch the Eclipse application.
 4. Accept the default workspace.
@@ -217,7 +217,7 @@ already integrated with Eclipse.
    2. Follow the download and installation instructions. Note that this will only install the Java Runtime Environment (JRE). 
       If you are planning to do Java development in the future, you should install the 
       [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-2. Download **either** the [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/eclipse-packages/) or
+2. Download *either* the [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/eclipse-packages/) or
    [Eclipse for Parallel Application Developers](https://www.eclipse.org/downloads/eclipse-packages/) package.
 3. Unzip the archive and launch the Eclipse executable.
 4. Accept the default workspace.
