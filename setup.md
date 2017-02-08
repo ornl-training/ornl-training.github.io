@@ -10,7 +10,7 @@ For the first lesson in this course, you will need to ensure the following are i
 * [Python](#python)
 * [The Bash Shell](#the-bash-shell)
 * [Git](#git)
-* [Text Editor](#text-editor) (optional)
+* [A Text Editor](#a-text-editor)
 
 Please follow the instructions below for installing these packages for your operating system.
 
@@ -129,12 +129,14 @@ labelled "snow-leopard" available [here](http://sourceforge.net/projects/git-osx
 If Git is not already available on your machine you can try to install it via your distro's package manager. 
 For Debian/Ubuntu use the command `sudo apt-get install git` and for Fedora use the command `sudo yum install git`.
 
-### Text Editor
+### A Text Editor
 
 When you're writing code, it's nice to have a text editor that is optimized for writing code, with features like 
 automatic color-coding of key words. The default text editor on Mac OS X and Linux is usually set to Vim, 
 which is not famous for being intuitive. if you accidentally find yourself stuck in it, try typing the escape key, 
 followed by `:q!` (colon, lower-case 'q', exclamation mark), then hitting Return to return to the shell.
+
+You're welcome to use whatever editor you are comfortable with, or follow the instructions below for using `nano`.
 
 #### Windows
 
