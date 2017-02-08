@@ -179,7 +179,7 @@ already integrated with Eclipse.
 
 1. Make sure you have Java 8 installed. Open the `cmd` application and type `java -version`. If you get an error or
    the version is not 1.8.x then you need to install Java 8 as follows:
-   1. Open the [Java](https://www.java.com/en/download/) download site in your web browser.
+   1. Open the [Java download site](https://www.java.com/en/download/) in your web browser.
    2. Follow the download and installation instructions. Note that this will only install the Java Runtime Environment (JRE). 
       If you are planning to do Java development in the future, you should install the 
       [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
@@ -195,7 +195,7 @@ already integrated with Eclipse.
 
 1. Make sure you have Java 8 installed. Open the `Terminal` application and type `java -version`. If you get an error or
    the version is not 1.8.x then you need to install Java 8 as follows:
-   1. Open the [Java](https://www.java.com/en/download/) download site in your web browser.
+   1. Open the [Java download site](https://www.java.com/en/download/) in your web browser.
    2. Follow the download and installation instructions. Note that this will only install the Java Runtime Environment (JRE). 
       If you are planning to do Java development in the future, you should install the 
       [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
@@ -213,7 +213,7 @@ already integrated with Eclipse.
    If you get an error or the version is not 1.8.x then you need to install Java 8. If you wish to use OpenJDK,
    follow the instructions with your Linux distribution for updating the OpenJDK version. If you'd like to use
    Oracles Java, do the following:
-   1. Open the [Java](https://www.java.com/en/download/) download site in your web browser.
+   1. Open the [Java download site](https://www.java.com/en/download/) in your web browser.
    2. Follow the download and installation instructions. Note that this will only install the Java Runtime Environment (JRE). 
       If you are planning to do Java development in the future, you should install the 
       [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
