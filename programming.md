@@ -7,6 +7,7 @@ Instructor: [Dr. Gregory Watson](mailto:watsongr@ornl.gov)
 
 * [Syllabus]({{ site.github.url }}/syllabus/programming-syllabus)
 * [Schedule]({{ site.github.url }}/syllabus/programming-schedule)
+* [Setup]({{ site.github.url }}/setup)
 
 The Introduction to Programming with Python and C++ is aimed at providing 
 scientist with the basic skills necessary to use Python and C++ for
