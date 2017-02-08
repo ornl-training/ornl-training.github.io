@@ -5,7 +5,7 @@ title: Setup
 
 ### Python
 
-[Python][https://python.org] is a popular language for research computing, and great for general-purpose programming as well. 
+[Python](https://python.org) is a popular language for research computing, and great for general-purpose programming as well. 
 Installing all of its research packages individually can be a bit difficult, so we recommend 
 [Anaconda](https://www.continuum.io/anaconda), 
 an all-in-one installer. If you already have Python installed, *please install Anaconda anyway*. Anaconda
