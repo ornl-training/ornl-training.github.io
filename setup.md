@@ -11,6 +11,7 @@ For the first lesson in this course, you will need to ensure the following are i
 * [The Bash Shell](#the-bash-shell)
 * [Git](#git)
 * [A Text Editor](#a-text-editor)
+* [PyDev](#pydev)
 
 Please follow the instructions below for installing these packages for your operating system.
 
@@ -168,4 +169,59 @@ The `nano` editor is a basic editor and the default that instructors use in the 
 Others editors that you can use are [Gedit](https://wiki.gnome.org/Apps/Gedit), [Kate](http://kate-editor.org/) or 
 [Sublime Text](http://www.sublimetext.com/).
 
+### PyDev
+
+[PyDev](http://www.pydev.org) is a complete development environment for Python programs of any size. Based on the hugely
+popular Eclipse platform, PyDev provides a wide range of Python-specific tools, in addition to the development tools 
+already integrated with Eclipse.
+
+#### Windows
+
+1. Make sure you have Java 8 installed. Open the `cmd` application and type `java -version`. If you get an error or
+   the version is not 1.8.x then you need to install Java 8 as follows:
+   1. Open the [Java](https://www.java.com/en/download/) download site in your web browser.
+   2. Follow the download and installation instructions. Note that this will only install the Java Runtime Environment (JRE). 
+      If you are planning to do Java development in the future, you should install the 
+      [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+2. Download **either** the [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/eclipse-packages/) or
+   [Eclipse for Parallel Application Developers](https://www.eclipse.org/downloads/eclipse-packages/) package.
+3. Unzip the archive and launch the Eclipse executable.
+4. Accept the default workspace.
+5. From the **Help** menu, choose **Eclipse Marketplace...**.
+6. In the **Find** box, enter "PyDev" (case doesn't matter).
+7. From the PyDev entry, click on **Install** and follow the prompts. Restart when asked.
+
+#### Mac OS X
+
+1. Make sure you have Java 8 installed. Open the `Terminal` application and type `java -version`. If you get an error or
+   the version is not 1.8.x then you need to install Java 8 as follows:
+   1. Open the [Java](https://www.java.com/en/download/) download site in your web browser.
+   2. Follow the download and installation instructions. Note that this will only install the Java Runtime Environment (JRE). 
+      If you are planning to do Java development in the future, you should install the 
+      [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+2. Download **either** the [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/eclipse-packages/) or
+   [Eclipse for Parallel Application Developers](https://www.eclipse.org/downloads/eclipse-packages/) package.
+3. Unzip the archive and launch the Eclipse executable.
+4. Accept the default workspace.
+5. From the **Help** menu, choose **Eclipse Marketplace...**.
+6. In the **Find** box, enter "PyDev" (case doesn't matter).
+7. From the PyDev entry, click on **Install** and follow the prompts. Restart when asked.
+
+### Linux
+
+1. Eclipse *will not* work with GCJ. Make sure you have Java 8 installed. Open a shell and type `java -version`. 
+   If you get an error or the version is not 1.8.x then you need to install Java 8. If you wish to use OpenJDK,
+   follow the instructions with your Linux distribution for updating the OpenJDK version. If you'd like to use
+   Oracles Java, do the following:
+   1. Open the [Java](https://www.java.com/en/download/) download site in your web browser.
+   2. Follow the download and installation instructions. Note that this will only install the Java Runtime Environment (JRE). 
+      If you are planning to do Java development in the future, you should install the 
+      [Java Development Kit (JDK)](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+2. Download **either** the [Eclipse IDE for C/C++ Developers](https://www.eclipse.org/downloads/eclipse-packages/) or
+   [Eclipse for Parallel Application Developers](https://www.eclipse.org/downloads/eclipse-packages/) package.
+3. Unzip the archive and launch the Eclipse executable.
+4. Accept the default workspace.
+5. From the **Help** menu, choose **Eclipse Marketplace...**.
+6. In the **Find** box, enter "PyDev" (case doesn't matter).
+7. From the PyDev entry, click on **Install** and follow the prompts. Restart when asked.
 
