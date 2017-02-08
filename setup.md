@@ -3,6 +3,17 @@ layout: page
 title: Setup
 ---
 
+## Setup for Day 1
+
+For the first lesson in this course, you will need to ensure the following are installed on your computer:
+
+* [Python](#python)
+* [The Bash Shell](#the-bash-shell)
+* [Git](#git)
+* [Text Editor](#text-editor) (optional)
+
+Please follow the instructions below for installing these packages for your operating system.
+
 ### Python
 
 [Python](https://python.org) is a popular language for research computing, and great for general-purpose programming as well. 
