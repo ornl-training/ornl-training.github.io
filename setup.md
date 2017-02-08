@@ -12,8 +12,8 @@ an all-in-one installer. If you already have Python installed, *please install A
 can be used alongside any other versions of Python. *Please also make sure you install Python version 
 3.x (e.g., 3.5 is fine)*.
 
-We will teach Python using the IPython notebook, a programming environment that runs in a web browser. 
-For this to work you will need a reasonably up-to-date browser. The current versions of the Chrome, 
+We will teach Python using the Jupyter notebook (also known as IPython notebook), a programming environment that runs 
+in a web browser. For this to work you will need a reasonably up-to-date browser. The current versions of the Chrome, 
 Safari and Firefox browsers are all supported (some older browsers, including Internet Explorer version 9 
 and below, are not).
 
