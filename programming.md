@@ -19,12 +19,12 @@ Basics:
 
 Python:
 
-* Introduction to Python 3.5
+* Introduction to Python
 * The IPython and PyDev development environments
 
 C++:
 
-* Introduction to C++--14
+* Introduction to C++
 * The CDT development environment
 * Compiling and running programs
 * Using Makefiles
