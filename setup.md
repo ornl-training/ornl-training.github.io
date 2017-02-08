@@ -209,7 +209,7 @@ already integrated with Eclipse.
 
 ### Linux
 
-1. Eclipse *will not* work with GCJ. Make sure you have Java 8 installed. Open a shell and type `java -version`. 
+1. Eclipse *will not* work with GCJ. To check if you have Java 8 installed, open a shell and type `java -version`. 
    If you get an error or the version is not 1.8.x then you need to install Java 8. If you wish to use OpenJDK,
    follow the instructions with your Linux distribution for updating the OpenJDK version. If you'd like to use
    Oracles Java, do the following:
