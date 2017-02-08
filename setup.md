@@ -188,7 +188,7 @@ already integrated with Eclipse.
 3. Unzip the archive and launch the Eclipse executable.
 4. Accept the default workspace.
 5. From the **Help** menu, choose **Eclipse Marketplace...**.
-6. In the **Find** box, enter "PyDev" (case doesn't matter).
+6. In the **Find** box, enter "PyDev" (case doesn't matter) and click on **Go**.
 7. From the PyDev entry, click on **Install** and follow the prompts. Restart when asked.
 
 #### Mac OS X
@@ -204,7 +204,7 @@ already integrated with Eclipse.
 3. Unzip the archive and launch the Eclipse application.
 4. Accept the default workspace.
 5. From the **Help** menu, choose **Eclipse Marketplace...**.
-6. In the **Find** box, enter "PyDev" (case doesn't matter).
+6. In the **Find** box, enter "PyDev" (case doesn't matter) and click on **Go**.
 7. From the PyDev entry, click on **Install** and follow the prompts. Restart when asked.
 
 ### Linux
@@ -222,6 +222,6 @@ already integrated with Eclipse.
 3. Unzip the archive and launch the Eclipse executable.
 4. Accept the default workspace.
 5. From the **Help** menu, choose **Eclipse Marketplace...**.
-6. In the **Find** box, enter "PyDev" (case doesn't matter).
+6. In the **Find** box, enter "PyDev" (case doesn't matter) and click on **Go**.
 7. From the PyDev entry, click on **Install** and follow the prompts. Restart when asked.
 
