@@ -25,7 +25,7 @@ title: Schedule - Scientific Programming with Python and C++
 * [Collaborating](http://swcarpentry.github.io/git-novice/08-collab/)
 * [Conflicts](http://swcarpentry.github.io/git-novice/09-conflict/)
 
-#### Session 3: (11:30 - 12:30) [Python Development Environments]()
+#### Session 3: (11:30 - 12:30) [Python Development Environments](https://ornl-ssd.github.io/python-dev-env)
 
 * IPython development environment
 * Jupyter notebooks
