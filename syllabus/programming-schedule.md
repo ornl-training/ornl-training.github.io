@@ -56,7 +56,7 @@ title: Schedule - Scientific Programming with Python and C++
 
 * Compiling programs
 * Running programs from the command line
-* Introduction to Makefiles
+* [Introduction to Makefiles](http://ornl-ssd.github.io/make-intro/)
 
 #### Session 2: (10:30 - 11:30) [CDT Development Environment]()
 
