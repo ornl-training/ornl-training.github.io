@@ -52,10 +52,9 @@ title: Schedule - Scientific Programming with Python and C++
 
 ### Day 2
 
-#### Session 1: (09:00 - 10:00) [Compiling, Running, and Makefiles]()
+#### Session 1: (09:00 - 10:00) Compiling, Running, and Makefiles
 
-* Compiling programs
-* Running programs from the command line
+* [Compiling and running programs from the command line](http://ornl-ssd.github.io/compiler-intro/)
 * [Introduction to Makefiles](http://ornl-ssd.github.io/make-intro/)
 
 #### Session 2: (10:30 - 11:30) [CDT Development Environment]()
