@@ -27,9 +27,9 @@ title: Schedule - Scientific Programming with Python and C++
 
 #### Session 3: (11:30 - 12:30) [Python Development Environments](https://ornl-ssd.github.io/python-dev-env)
 
-* IPython development environment
-* Jupyter notebooks
-* PyDev development environment
+* [IPython development environment](https://ornl-ssd.github.io/python-dev-env/01-ipython/)
+* [Jupyter notebooks](https://ornl-ssd.github.io/python-dev-env/02-jupyter/)
+* [PyDev development environment](https://ornl-ssd.github.io/python-dev-env/03-pydev/)
 
 #### Session 4 (13:30 - 17:00): [Introduction to Python](http://swcarpentry.github.io/python-novice-inflammation/)
 
