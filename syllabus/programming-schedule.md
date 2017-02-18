@@ -31,18 +31,18 @@ title: Schedule - Scientific Programming with Python and C++
 * [Jupyter notebooks](https://ornl-ssd.github.io/python-dev-env/02-jupyter/)
 * [PyDev development environment](https://ornl-ssd.github.io/python-dev-env/03-pydev/)
 
-#### Session 4 (13:30 - 17:00): [Introduction to Python](http://swcarpentry.github.io/python-novice-inflammation/)
+#### Session 4 (13:30 - 17:00): [Introduction to Python](http://jarrah42.github.io/python-novice-inflammation/)
 
-* [Analyzing Patient Data](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
-* [Repeating Actions with Loops](http://swcarpentry.github.io/python-novice-inflammation/02-loop/)
-*	[Storing Multiple Values in Lists](http://swcarpentry.github.io/python-novice-inflammation/03-lists/)
-*	[Analyzing Data from Multiple Files](http://swcarpentry.github.io/python-novice-inflammation/04-files/)
-*	[Making Choices](http://swcarpentry.github.io/python-novice-inflammation/05-cond/)
-*	[Creating Functions](http://swcarpentry.github.io/python-novice-inflammation/06-func/)
-*	[Errors and Exceptions](http://swcarpentry.github.io/python-novice-inflammation/07-errors/)
-*	[Defensive Programming](http://swcarpentry.github.io/python-novice-inflammation/08-defensive/)
-*	[Debugging](http://swcarpentry.github.io/python-novice-inflammation/09-debugging/)
-*	[Command-Line Programs](http://swcarpentry.github.io/python-novice-inflammation/10-cmdline/)
+* [Analyzing Patient Data](http://jarrah42.github.io/python-novice-inflammation/01-numpy/)
+* [Repeating Actions with Loops](http://jarrah42.github.io/python-novice-inflammation/02-loop/)
+*	[Storing Multiple Values in Lists](http://jarrah42.github.io/python-novice-inflammation/03-lists/)
+*	[Analyzing Data from Multiple Files](http://jarrah42.github.io/python-novice-inflammation/04-files/)
+*	[Making Choices](http://jarrah42.github.io/python-novice-inflammation/05-cond/)
+*	[Creating Functions](http://jarrah42.github.io/python-novice-inflammation/06-func/)
+*	[Errors and Exceptions](http://jarrah42.github.io/python-novice-inflammation/07-errors/)
+*	[Defensive Programming](http://jarrah42.github.io/python-novice-inflammation/08-defensive/)
+*	[Debugging](http://jarrah42.github.io/python-novice-inflammation/09-debugging/)
+*	[Command-Line Programs](http://swcarjarrah42pentry.github.io/python-novice-inflammation/10-cmdline/)
 
 #### Breaks
 
