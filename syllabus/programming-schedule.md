@@ -47,7 +47,7 @@ title: Schedule - Scientific Programming with Python and C++
 #### Breaks
 
 * 10:00 - 10:30 Coffee
-* 12:30 - 13:30 Lunch
+* 12:30 - 13:30 Working Lunch: Review morning session; address any outstanding issues
 * 15:00 - 15:30 Coffee
 
 ### Day 2
@@ -80,5 +80,5 @@ title: Schedule - Scientific Programming with Python and C++
 #### Breaks
 
 * 10:00 - 10:30 Coffee
-* 12:30 - 13:30 Lunch
+* 12:30 - 13:30 Working Lunch: Review morning session; address any outstanding issues
 * 15:00 - 15:30 Coffee
