@@ -31,6 +31,8 @@ title: Schedule - Scientific Programming with Python and C++
 * [Jupyter notebooks](https://ornl-ssd.github.io/python-dev-env/02-jupyter/)
 * [PyDev development environment](https://ornl-ssd.github.io/python-dev-env/03-pydev/)
 
+#### Working Lunch (12:30 - 13:30): Review morning session; address any outstanding issues
+
 #### Session 4 (13:30 - 17:00): [Introduction to Python](http://jarrah42.github.io/python-novice-inflammation/)
 
 * [Analyzing Patient Data](http://jarrah42.github.io/python-novice-inflammation/01-numpy/)
@@ -47,7 +49,6 @@ title: Schedule - Scientific Programming with Python and C++
 #### Breaks
 
 * 10:00 - 10:30 Coffee
-* 12:30 - 13:30 Working Lunch: Review morning session; address any outstanding issues
 * 15:00 - 15:30 Coffee
 
 ### Day 2
@@ -77,8 +78,9 @@ title: Schedule - Scientific Programming with Python and C++
 * Templates
 * Standard library
 
+#### Working Lunch (12:30 - 13:30): Review morning session; address any outstanding issues
+
 #### Breaks
 
 * 10:00 - 10:30 Coffee
-* 12:30 - 13:30 Working Lunch: Review morning session; address any outstanding issues
 * 15:00 - 15:30 Coffee
