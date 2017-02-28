@@ -37,14 +37,14 @@ title: Schedule - Scientific Programming with Python and C++
 
 * [Analyzing Patient Data](http://jarrah42.github.io/python-novice-inflammation/01-numpy/)
 * [Repeating Actions with Loops](http://jarrah42.github.io/python-novice-inflammation/02-loop/)
-*	[Storing Multiple Values in Lists](http://jarrah42.github.io/python-novice-inflammation/03-lists/)
-*	[Analyzing Data from Multiple Files](http://jarrah42.github.io/python-novice-inflammation/04-files/)
-*	[Making Choices](http://jarrah42.github.io/python-novice-inflammation/05-cond/)
-*	[Creating Functions](http://jarrah42.github.io/python-novice-inflammation/06-func/)
-*	[Errors and Exceptions](http://jarrah42.github.io/python-novice-inflammation/07-errors/)
-*	[Defensive Programming](http://jarrah42.github.io/python-novice-inflammation/08-defensive/)
-*	[Debugging](http://jarrah42.github.io/python-novice-inflammation/09-debugging/)
-*	[Command-Line Programs](http://swcarjarrah42pentry.github.io/python-novice-inflammation/10-cmdline/)
+* [Storing Multiple Values in Lists](http://jarrah42.github.io/python-novice-inflammation/03-lists/)
+* [Analyzing Data from Multiple Files](http://jarrah42.github.io/python-novice-inflammation/04-files/)
+* [Making Choices](http://jarrah42.github.io/python-novice-inflammation/05-cond/)
+* [Creating Functions](http://jarrah42.github.io/python-novice-inflammation/06-func/)
+* [Errors and Exceptions](http://jarrah42.github.io/python-novice-inflammation/07-errors/)
+* [Defensive Programming](http://jarrah42.github.io/python-novice-inflammation/08-defensive/)
+* [Debugging](http://jarrah42.github.io/python-novice-inflammation/09-debugging/)
+* [Command-Line Programs](http://swcarjarrah42pentry.github.io/python-novice-inflammation/10-cmdline/)
 
 #### Breaks
 
@@ -53,19 +53,25 @@ title: Schedule - Scientific Programming with Python and C++
 
 ### Day 2
 
-#### Session 1: (09:00 - 10:00) Compiling, Running, and Makefiles
+#### Session 1: (09:00 - 09:30) [Compiling and Running Programs](http://ornl-ssd.github.io/cpp-compiler-intro/)
 
-* [Compiling and running programs from the command line](http://ornl-ssd.github.io/compiler-intro/)
-* [Introduction to Makefiles](http://ornl-ssd.github.io/make-intro/)
+* [Introduction](http://ornl-ssd.github.io/cpp-compiler-intro/01-intro)
+* [Multiple Source Files](http://ornl-ssd.github.io/cpp-compiler-intro/02-modules)
+* [Object Files](http://ornl-ssd.github.io/cpp-compiler-intro/03-object-files)
 
-#### Session 2: (10:30 - 11:30) [CDT Development Environment]()
+#### Session 2 (09:30 - 10:00) [Introduction to Make](http://ornl-ssd.github.io/cpp-make-intro/)
+
+* [Introduction](http://ornl-ssd.github.io/cpp-make-intro/01-intro)
+* [Makefiles](http://ornl-ssd.github.io/cpp-make-intro/02-makefiles)
+
+#### Session 3: (10:30 - 11:30) [C++ Development Environments](http://ornl-ssd.github.io/cpp-dev-env/)
 
 * Downloading and installing CDT
 * Creating a project
 * Configuring a toolchain
 * CDT features
 
-#### Session 3: (11:30 - 17:00) [Introduction to C++]()
+#### Session 4: (11:30 - 17:00) [Introduction to C++]()
 
 * Basic syntax
 * Data types
