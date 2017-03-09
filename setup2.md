@@ -37,7 +37,7 @@ Once you have completed the installation of these packages, do the following to 
    
    If you see the output `Hello world!` your installation is correctly configured.
 
-[zip-file]: {{ page.root }}/files/setup-test.zip
+[zip-file]: {{ site.github.url }}/files/setup-test.zip
 
 ### A Development Environment
 
