@@ -26,7 +26,6 @@ Python:
 C++:
 
 * Introduction to C++
-* The CDT development environment
 * Compiling and running programs
 * Using Makefiles
 
