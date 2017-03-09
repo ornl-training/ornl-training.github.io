@@ -63,6 +63,8 @@ title: Schedule - Scientific Programming with Python and C++
 
 * [Introduction](http://ornl-ssd.github.io/cpp-make-intro/01-intro)
 * [Makefiles](http://ornl-ssd.github.io/cpp-make-intro/02-makefiles)
+* [Automatic Variables](http://ornl-ssd.github.io/cpp-make-intro/03-variables)
+* [Dependencies](http://ornl-ssd.github.io/cpp-make-intro/04-dependencies)
 
 #### Working Lunch (12:00 - 13:00): Review morning session; address any outstanding issues
 
