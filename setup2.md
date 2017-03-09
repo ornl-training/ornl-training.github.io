@@ -15,18 +15,20 @@ installation, do the following to test the setup:
 
 2. Move `setup-test.zip` into a directory which you can access via your bash shell.
 
-3. Open a Bash shell window.
+3. Open a Bash shell window ("Git Bash" on Windows).
 
 4. Navigate to the directory where you downloaded the file.
 
-5. Unpack `setup-test.zip` either from the command line or using an uncompressing tool:
+5. Unpack `setup-test.zip` as follows:
 
    ~~~
    $ unzip setup-test.zip
    ~~~
    {: .source}
 
-6. Change into the `setup-test` directory and run `make`:
+6. On Windows, open a "Git SDK" bash shell.
+
+7. Change into the `setup-test` directory and run `make`:
 
    ~~~
    $ cd setup-test
