@@ -53,20 +53,20 @@ title: Schedule - Scientific Programming with Python and C++
 
 ### Day 2
 
-#### Session 1: (09:00 - 09:30) [Compiling and Running Programs](http://ornl-ssd.github.io/cpp-compiler-intro/)
+#### Session 1: (09:00 - 10:00) [Compiling and Running Programs](http://ornl-ssd.github.io/cpp-compiler-intro/)
 
 * [Introduction](http://ornl-ssd.github.io/cpp-compiler-intro/01-intro)
 * [Multiple Source Files](http://ornl-ssd.github.io/cpp-compiler-intro/02-modules)
 * [Object Files](http://ornl-ssd.github.io/cpp-compiler-intro/03-object-files)
 
-#### Session 2 (09:30 - 11:00) [Introduction to Make](http://ornl-ssd.github.io/cpp-make-intro/)
+#### Session 2 (10:30 - 12:00) [Introduction to Make](http://ornl-ssd.github.io/cpp-make-intro/)
 
 * [Introduction](http://ornl-ssd.github.io/cpp-make-intro/01-intro)
 * [Makefiles](http://ornl-ssd.github.io/cpp-make-intro/02-makefiles)
 
-#### Working Lunch (12:30 - 13:30): Review morning session; address any outstanding issues
+#### Working Lunch (12:00 - 13:00): Review morning session; address any outstanding issues
 
-#### Session 3: (11:00 - 17:00) [Introduction to C++](http://ornl-ssd.github.io/cpp-novice/)
+#### Session 3: (13:00 - 17:00) [Introduction to C++](http://ornl-ssd.github.io/cpp-novice/)
 
 * Basic syntax
 * Data types
