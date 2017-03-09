@@ -8,7 +8,35 @@ For the second lesson in this course, you will need to ensure the following are 
 * A [development environment](#a-development-environment) that includes Bash, `make`, and a C++ compiler
 * [A Text Editor](#a-text-editor)
 
-Please follow the instructions below for installing these packages for your operating system.
+Please follow the instructions below for installing these packages for your operating system. Once you have completed the
+installation, do the following to test the setup:
+
+1. Download [setup-test.zip][zip-file].
+
+2. Move `setup-test.zip` into a directory which you can access via your bash shell.
+
+3. Open a Bash shell window.
+
+4. Navigate to the directory where you downloaded the file.
+
+5. Unpack `setup-test.zip` either from the command line or using an uncompressing tool:
+
+   ~~~
+   $ unzip setup-test.zip
+   ~~~
+   {: .source}
+
+6. Change into the `setup-test` directory and run `make`:
+
+   ~~~
+   $ cd setup-test
+   $ make
+   ~~~
+   {: .source}
+   
+   If you see the output `Hello world!` your installation is correctly configured.
+
+[zip-file]: {{ page.root }}/files/setup-test.zip
 
 ### A Development Environment
 
