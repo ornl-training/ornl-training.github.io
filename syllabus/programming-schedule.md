@@ -59,19 +59,14 @@ title: Schedule - Scientific Programming with Python and C++
 * [Multiple Source Files](http://ornl-ssd.github.io/cpp-compiler-intro/02-modules)
 * [Object Files](http://ornl-ssd.github.io/cpp-compiler-intro/03-object-files)
 
-#### Session 2 (09:30 - 10:00) [Introduction to Make](http://ornl-ssd.github.io/cpp-make-intro/)
+#### Session 2 (09:30 - 11:00) [Introduction to Make](http://ornl-ssd.github.io/cpp-make-intro/)
 
 * [Introduction](http://ornl-ssd.github.io/cpp-make-intro/01-intro)
 * [Makefiles](http://ornl-ssd.github.io/cpp-make-intro/02-makefiles)
 
-#### Session 3: (10:30 - 11:30) [C++ Development Environments](http://ornl-ssd.github.io/cpp-dev-env/)
+#### Working Lunch (12:30 - 13:30): Review morning session; address any outstanding issues
 
-* Downloading and installing CDT
-* Creating a project
-* Configuring a toolchain
-* CDT features
-
-#### Session 4: (11:30 - 17:00) [Introduction to C++]()
+#### Session 3: (11:00 - 17:00) [Introduction to C++](http://ornl-ssd.github.io/cpp-novice/)
 
 * Basic syntax
 * Data types
@@ -83,8 +78,6 @@ title: Schedule - Scientific Programming with Python and C++
 * Namespaces
 * Templates
 * Standard library
-
-#### Working Lunch (12:30 - 13:30): Review morning session; address any outstanding issues
 
 #### Breaks
 
