@@ -8,36 +8,8 @@ For the second lesson in this course, you will need to ensure the following are 
 * A [development environment](#a-development-environment) that includes Bash, `make`, and a C++ compiler
 * [A Text Editor](#a-text-editor)
 
-Once you have completed the installation of these packages, do the following to test the setup:
-
-1. Download [setup-test.zip][zip-file].
-
-2. Move `setup-test.zip` into a directory which you can access via your bash shell.
-
-3. Open a Bash shell window ("Git Bash" on Windows).
-
-4. Navigate to the directory where you downloaded the file.
-
-5. Unpack `setup-test.zip` as follows:
-
-   ~~~
-   $ unzip setup-test.zip
-   ~~~
-   {: .source}
-
-6. On Windows, open a "Git SDK" bash shell.
-
-7. Change into the `setup-test` directory and run `make`:
-
-   ~~~
-   $ cd setup-test
-   $ make
-   ~~~
-   {: .source}
-   
-   If you see the output `Hello world!` your installation is correctly configured.
-
-[zip-file]: {{ site.github.url }}/files/setup-test.zip
+Once you have installed the packages, go to [Testing the Installation](#testing-the-installation) to check that
+it is working correctly.
 
 ### A Development Environment
 
@@ -47,26 +19,11 @@ Once you have completed the installation of these packages, do the following to 
 you have 64-bit Windows installed. If unsure, choose the 32-bit version.
 	* 32-bit installer [git-sdk-installer-1.0.3-32.7z.exe](https://github.com/git-for-windows/build-extra/releases/download/git-sdk-1.0.3/git-sdk-installer-1.0.3-32.7z.exe)
 	* 64-bit installer [git-sdk-installer-1.0.3-64.7z.exe](https://github.com/git-for-windows/build-extra/releases/download/git-sdk-1.0.3/git-sdk-installer-1.0.3-64.7z.exe)
-2. Run the installer and follow the instructions. Choose the option to create an icon on the desktop as this makes starting the shell easier.
-3. The installation will take some time to compelete.
+2. Run the installer. Installation will proceed automatically.
+3. The installation will take some time to compelete. 
 
-This will provide you with a Bash shell, the `make` command, and a C++ compiler.
-
-To check if your installation is correct, launch the `Git SDK` application and type the command `make`.
-If you see the following output, your installation is ok:
-
-~~~
-make: *** No targets specified and no makefile found.  Stop.
-~~~
-{: .output}
-
-To check for a C++ compiler, enter the command `c++` at the prompt. You should see
-the following output:
-
-~~~
-c++.exe: fatal error: no input files
-~~~
-{: .output}
+You should have a "Git SDK" icon installed on your desktop at the end of the installation. This will provide you with a Bash shell, 
+the `make` command, and a C++ compiler.
 
 #### Mac OS X
 
@@ -76,46 +33,14 @@ You access Bash from the Terminal (found in `/Applications/Utilities`).
 For the `make` command and a C++ compiler, you'll need the XCode command line tools. Run the
 command `xcode-select --install`. 
 
-To check if your installation is correct, open a Terminal window and type the command `make`.
-If you see the following output, your installation is ok:
-
-~~~
-make: *** No targets specified and no makefile found.  Stop.
-~~~
-{: .output}
-
-To check for a C++ compiler, enter the command `c++` in the Terminal window. You should see
-the following output:
-
-~~~
-clang: error: no input files
-~~~
-{: .output}
-
 #### Linux
 
 The default shell is usually Bash, but if your machine is set up differently you can run it 
-by opening a terminal and typing bash.
+by opening a terminal and typing `bash`.
 
-To check if you have `make` installed, open a terminal and type `make`. You should see the following
-output:
-
-~~~
-make: *** No targets specified and no makefile found.  Stop.
-~~~
-{: .output}
-
-To check for a C++ compiler, enter the command `c++` in the terminal window. You should see
-the following output:
-
-~~~
-c++: fatal error: no input files
-compilation terminated.
-~~~
-{: .output}
-
-If either of these commands produce a message about the command being missing, you will need to
-install the corresponding package using your systems package manager. This will depend on
+Use the test process [below](#testing-the-installation) to see if you have `make` and the C++ 
+compiler installed. If the test fails, you will need to
+install the corresponding packages using your systems package manager. This will depend on
 on the Linux distribution you have installed. The corresponding RPM packages are:
 
 * make
@@ -159,3 +84,36 @@ The `nano` editor is a basic editor and the default that instructors use in the 
 
 Others editors that you can use are [Gedit](https://wiki.gnome.org/Apps/Gedit), [Kate](http://kate-editor.org/) or 
 [Sublime Text](http://www.sublimetext.com/).
+
+### Testing the Installation
+
+Once you have completed the installation of these packages, do the following to test the setup:
+
+1. Download [setup-test.zip][zip-file].
+
+2. Move `setup-test.zip` into a directory which you can access via your bash shell.
+
+3. Open a Bash shell window ("Git Bash" on Windows).
+
+4. Navigate to the directory where you downloaded the file.
+
+5. Unpack `setup-test.zip` as follows:
+
+   ~~~
+   $ unzip setup-test.zip
+   ~~~
+   {: .source}
+
+6. On Windows, open a "Git SDK" bash shell.
+
+7. Change into the `setup-test` directory and run `make`:
+
+   ~~~
+   $ cd setup-test
+   $ make
+   ~~~
+   {: .source}
+   
+   If you see the output `Hello world!` your installation is correctly configured.
+
+[zip-file]: {{ site.github.url }}/files/setup-test.zip
