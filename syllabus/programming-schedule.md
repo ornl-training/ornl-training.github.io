@@ -70,16 +70,16 @@ title: Schedule - Scientific Programming with Python and C++
 
 #### Session 3: (13:00 - 17:00) [Introduction to C++](http://ornl-ssd.github.io/cpp-novice/)
 
-* Basic syntax
-* Data types
-* Control structures
-* Functions and scope
-* Exceptions
-* Arrays, strings, pointers, references
-* Classes & objects
-* Namespaces
-* Templates
-* Standard library
+* [Basic Structure](http://ornl-ssd.github.io/cpp-novice/01-structure)
+* [Variables and Types](http://ornl-ssd.github.io/cpp-novice/02-variables)
+* [Constants](http://ornl-ssd.github.io/cpp-novice/03-constants)
+* [Operators](http://ornl-ssd.github.io/cpp-novice/04-operators)
+* [Control of Flow](http://ornl-ssd.github.io/cpp-novice/06-flowcontrol)
+* [Functions](http://ornl-ssd.github.io/cpp-novice/07-functions)
+* [Name Visibility](http://ornl-ssd.github.io/cpp-novice/10-visibility)
+* [Arrays](http://ornl-ssd.github.io/cpp-novice/11-arrays)
+* [Classes (I)](http://ornl-ssd.github.io/cpp-novice/17-classes1)
+* [Exceptions](http://ornl-ssd.github.io/cpp-novice/23-exceptions)
 
 #### Breaks
 
