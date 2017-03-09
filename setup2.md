@@ -8,8 +8,7 @@ For the second lesson in this course, you will need to ensure the following are 
 * A [development environment](#a-development-environment) that includes Bash, `make`, and a C++ compiler
 * [A Text Editor](#a-text-editor)
 
-Please follow the instructions below for installing these packages for your operating system. Once you have completed the
-installation, do the following to test the setup:
+Once you have completed the installation of these packages, do the following to test the setup:
 
 1. Download [setup-test.zip][zip-file].
 
