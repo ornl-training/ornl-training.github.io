@@ -78,6 +78,7 @@ title: Schedule - Scientific Programming with Python and C++
 * [Functions](http://ornl-ssd.github.io/cpp-novice/07-functions)
 * [Name Visibility](http://ornl-ssd.github.io/cpp-novice/10-visibility)
 * [Arrays](http://ornl-ssd.github.io/cpp-novice/11-arrays)
+* [Structs](http://ornl-ssd.github.io/cpp-novice/15-struct)
 * [Classes (I)](http://ornl-ssd.github.io/cpp-novice/17-classes1)
 * [Exceptions](http://ornl-ssd.github.io/cpp-novice/23-exceptions)
 
