@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus - Scientific Programming with Python and C++
+title: Syllabus - Scientific Programming with Python and C++ (short course)
 ---
 
 #### Instructor

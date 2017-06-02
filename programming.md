@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introduction to Programming with Python and C++
+title: Scientific Programming with Python and C++ (short course)
 ---
 
 Instructor: [Dr. Gregory Watson](mailto:watsongr@ornl.gov)
@@ -9,7 +9,7 @@ Instructor: [Dr. Gregory Watson](mailto:watsongr@ornl.gov)
 * [Schedule]({{ site.github.url }}/syllabus/programming-schedule)
 * [Setup]({{ site.github.url }}/setup)
 
-The Introduction to Programming with Python and C++ is aimed at providing 
+Scientific Programming with Python and C++ is aimed at providing 
 scientist with the basic skills necessary to use Python and C++ for
 scientific computing. In particular the course will cover:
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Advanced Scientific Programming with Python and C++
+title: Scientific Programming with Python and C++ (long course)
 ---
 
 Instructor: [Dr. Gregory Watson](mailto:greg.watson@nyu.edu)
@@ -8,7 +8,7 @@ Instructor: [Dr. Gregory Watson](mailto:greg.watson@nyu.edu)
 * [Syllabus]({{ site.github.url }}/syllabus/advanced-syllabus)
 * [Schedule]({{ site.github.url }}/syllabus/advanced-schedule)
 
-The Advanced Scientific Programming with Python and C++ is aimed at providing 
+This course is aimed at providing 
 scientist with in-depth skills necessary to use Python and C++ for scientific 
 computing. In particular the course will cover:
 
@@ -18,17 +18,21 @@ Basics:
 * Using Git and GitHub
 * Best-practice software engineering techniques
 
+Development Environments:
+
+* Jupyter notebooks 
+* The PyDev development environment
+* The CDT development environment
+
 Python:
 
 * Programming with Python 3.5
 * Array programming with NumPy
-* The Jupyter and PyDev development environments
 * The Matplotlib 2D plotting library 
 
 C++:
 
 * Programming with C++--14
-* The CDT development environment
 * Using Makefiles
 * The standard library and STL
 

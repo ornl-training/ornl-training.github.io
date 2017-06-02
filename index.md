@@ -4,8 +4,8 @@ layout: default
 
 This is the website for ORNL's Python and C++ programming courses for scientists. 
 
-* [Introduction to Scientific Programming with Python and C++]({{ page.url | prepend: site.github.url }}programming)
-* [Advanced Scientific Programming with Python and C++]({{ page.url | prepend: site.github.url }}advanced)
+* [Scientific Programming with Python and C++ (short course)]({{ page.url | prepend: site.github.url }}programming)
+* [Scientific Programming with Python and C++ (long course)]({{ page.url | prepend: site.github.url }}advanced)
 
 The goal of these courses is to teach scientists how to use computers more
 effectively to make their research easier. We avoid a lot of the theory that is

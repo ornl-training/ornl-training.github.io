@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule - Scientific Programming with Python and C++
+title: Schedule - Scientific Programming with Python and C++ (short course)
 ---
 
 ### Day 1

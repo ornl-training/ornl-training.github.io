@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Syllabus - Advanced Scientific Programming with Python and C++
+title: Syllabus - Scientific Programming with Python and C++ (long course)
 ---
 
 #### Instructor
@@ -11,8 +11,7 @@ Email (best way to contact me): [watsongr@ornl.gov](mailto:watsongr@ornl.gov)
 
 #### Meeting Times & Location
 
-Mon 9:00 am - 11:00 am
-Wed 9:00 am – 11:00 am
+Tues 3:30 pm - 5:30 pm
 
 #### References
 

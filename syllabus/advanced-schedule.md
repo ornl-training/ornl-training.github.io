@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule - Advanced Scientific Programming with Python and C++
+title: Schedule - Scientific Programming with Python and C++ (long course)
 ---
 
 ### Week 1: [The Shell](http://swcarpentry.github.io/shell-novice)
