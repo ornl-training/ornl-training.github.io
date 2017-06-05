@@ -7,7 +7,7 @@ Instructor: [Dr. Gregory Watson](mailto:watsongr@ornl.gov)
 
 * [Syllabus]({{ site.github.url }}/syllabus/programming-syllabus)
 * [Schedule]({{ site.github.url }}/syllabus/programming-schedule)
-* [Setup]({{ site.github.url }}/setup)
+* [Setup]({{ site.github.url }}/syllabus/setup_short)
 
 Scientific Programming with Python and C++ is aimed at providing 
 scientist with the basic skills necessary to use Python and C++ for

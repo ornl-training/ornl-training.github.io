@@ -29,68 +29,59 @@ title: Schedule - Scientific Programming with Python and C++ (long course)
 * [Citation](http://swcarpentry.github.io/git-novice/12-citation/)
 * [Hosting](http://swcarpentry.github.io/git-novice/13-hosting/)
 
-### Week 3: [IPython, Jupyter Notebooks, and PyDev]()
+### Week 3: [Python Development Environments](https://ornl-ssd.github.io/python-dev-env)
 
-* IPython development environment
-* Jupyter notebooks
-* PyDev development environment
+* [IPython development environment](https://ornl-ssd.github.io/python-dev-env/01-ipython/)
+* [Jupyter notebooks](https://ornl-ssd.github.io/python-dev-env/02-jupyter/)
+* [PyDev](https://ornl-ssd.github.io/python-dev-env/3-pydev/)
 
-### Week 4: [Programming with Python I](http://swcarpentry.github.io/python-novice-inflammation)
+### Week 4: [Programming with Python I](http://swcarpentry.github.io/python-novice-inflammation/)
 
-* `import`, numpy, assignment, print, arrays, slicing, comments, statistics, matplotlib
-* `for` loops
-* Lists, indexing, slicing, mutable vs. immutable
-* `glob` module
-* `if` statment, logical expressions
+* [Analyzing Patient Data](http://swcarpentry.github.io/python-novice-inflammation/01-numpy/)
+* [Repeating Actions with Loops](http://swcarpentry.github.io/python-novice-inflammation/02-loop/)
+* [Storing Multiple Values in Lists](http://swcarpentry.github.io/python-novice-inflammation/03-lists/)
+* [Analyzing Data from Multiple Files](http://swcarpentry.github.io/python-novice-inflammation/04-files/)
 
-### Week 5: [Programming with Python II](http://swcarpentry.github.io/python-novice-inflammation)
+### Week 5: [Programming with Python II](http://swcarpentry.github.io/python-novice-inflammation/)
 
-* Defining functions, parameters, call stack, help, docstrings, default values
-* Tracebacks, types of errors
-* Assertions, pre- and post-conditions, writing tests
-* Debugging
-* Accessing the command line
+* [Making Choices](http://jarrah42.github.io/python-novice-inflammation/05-cond/)
+* [Creating Functions](http://jarrah42.github.io/python-novice-inflammation/06-func/)
+* [Errors and Exceptions](http://swcarpentry.github.io/python-novice-inflammation/07-errors/)
 
-### Week 6: [Programming with Python III]()
+### Week 6: [Programming with Python III](http://swcarpentry.github.io/python-novice-inflammation/)
 
-* Basic data types, sequence types, dicts, sets
-* Advanced functions, lambdas, comprehensions
-* Classes and objects, polymorphism, exceptions
-* Modules and packages
-* File I/O
+* [Defensive Programming](http://swcarpentry.github.io/python-novice-inflammation/08-defensive/)
+* [Debugging](http://swcarpentry.github.io/python-novice-inflammation/09-debugging/)
+* [Command-Line Programs](http://swcarpentry.github.io/python-novice-inflammation/10-cmdline/)
 
-### Week 7: [CDT and Makefiles]()
+### Week 7: C++ Development
 
-* CDT Development Environment
-* Compiling and running C++ programs
-* Makefiles
+* [Compiling and Running Programs](http://ornl-ssd.github.io/cpp-compiler-intro/)
+* [The CDT Development Environment](http://ornl-ssd.github.io/cpp-dev-env/)
 
-### Week 8: [Programming with C++ I]()
+### Week 8: [Introduction to Makefiles](http://ornl-ssd.github.io/cpp-make-intro/)
 
-* Basic syntax
-* Data types
-* Variables and operators
-* Basic I/O
-* Control structures
-* Simple functions and scope
-* Exceptions
-* Arrays, strings, pointers, and references
-* Dynamic vs. static memory allocation, 
-* Data structures
+* [Introduction](http://ornl-ssd.github.io/cpp-make-intro/01-intro)
+* [Makefiles](http://ornl-ssd.github.io/cpp-make-intro/02-makefiles)
+* [Automatic Variables](http://ornl-ssd.github.io/cpp-make-intro/03-variables)
+* [Dependencies](http://ornl-ssd.github.io/cpp-make-intro/04-dependencies)
 
-### Week 9: [Programming with C++ II]()
+### Week 9: [Programming with C++ I](http://ornl-ssd.github.io/cpp-novice/)
 
-* OOP, inheritance, information hiding, encapsulation
-* Classes
-* Access
-* Overloading and polymorphism
-* Virtual functions
-* Namespaces
+* [Basic Structure](http://ornl-ssd.github.io/cpp-novice/01-structure)
+* [Variables and Types](http://ornl-ssd.github.io/cpp-novice/02-variables)
+* [Constants](http://ornl-ssd.github.io/cpp-novice/03-constants)
+* [Operators](http://ornl-ssd.github.io/cpp-novice/04-operators)
 
-### Week 10: [Programming with C++ III]()
+### Week 10: [Programming with C++ II](http://ornl-ssd.github.io/cpp-novice/)
 
-* Preprocessor
-* Program structure
-* Generic programming
-* Templates
-* Standard library and STL
+* [Control of Flow](http://ornl-ssd.github.io/cpp-novice/06-flowcontrol)
+* [Functions](http://ornl-ssd.github.io/cpp-novice/07-functions)
+* [Name Visibility](http://ornl-ssd.github.io/cpp-novice/10-visibility)
+
+### Week 11: [Programming with C++ III](http://ornl-ssd.github.io/cpp-novice/)
+
+* [Arrays](http://ornl-ssd.github.io/cpp-novice/11-arrays)
+* [Structs](http://ornl-ssd.github.io/cpp-novice/15-struct)
+* [Classes (I)](http://ornl-ssd.github.io/cpp-novice/17-classes1)
+* [Exceptions](http://ornl-ssd.github.io/cpp-novice/23-exceptions)

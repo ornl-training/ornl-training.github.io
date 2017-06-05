@@ -7,6 +7,7 @@ Instructor: [Dr. Gregory Watson](mailto:greg.watson@nyu.edu)
 
 * [Syllabus]({{ site.github.url }}/syllabus/advanced-syllabus)
 * [Schedule]({{ site.github.url }}/syllabus/advanced-schedule)
+* [Setup]({{ site.github.url }}/syllabus/setup_long)
 
 This course is aimed at providing 
 scientist with in-depth skills necessary to use Python and C++ for scientific 
