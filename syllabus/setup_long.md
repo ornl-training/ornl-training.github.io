@@ -20,7 +20,7 @@ Please follow these instructions prior to each lesson shown below.
 	* Nothing required
 
 * Week 7: C++ Development
-	* Install [C++ development tools]({{ site.github.url }}/syllabus/setup/#c++-development-tools)
+	* Install [C++ development tools]({{ site.github.url }}/syllabus/setup/#c-development-tools)
 	* Once you have installed the packages, go to [Testing the Installation]({{ site.github.url }}/syllabus/setup/#testing-the-installation) to check that
 it is working correctly.
 	* If you didn't install PyDev in week 3, install [Eclipse]({{ site.github.url }}/syllabus/setup/#eclipse)

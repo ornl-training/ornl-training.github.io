@@ -20,7 +20,7 @@ For the first lesson in this course, you will need to ensure the following are i
 
 For the second lesson in this course, you will need to ensure the following are installed on your computer:
 
-* [C++ development tools]({{ site.github.url }}/syllabus/setup/#c++-development-tools) that include a Bash shell, the `make` command, and a C++ compiler
+* [C++ development tools]({{ site.github.url }}/syllabus/setup/#c-development-tools) that include a Bash shell, the `make` command, and a C++ compiler
 * [A Text Editor]({{ site.github.url }}/syllabus/setup/#a-text-editor) if you haven't already done so
 
 Once you have installed the packages, go to [Testing the Installation]({{ site.github.url }}/syllabus/setup/#testing-the-installation) to check that
