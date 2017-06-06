@@ -56,16 +56,18 @@ Bash is a commonly-used shell that gives you the power to do simple tasks more q
 
 1. Download the Git for Windows [installer](https://git-for-windows.github.io/)
 2. Run the installer and follow the steps bellow:
-   1. Click on "Next".
-   2. Click on "Next".
-   3. **Keep "Use Git from the Windows Command Prompt" selected and click on "Next"**. 
+   1. Click on "Next" to accept the license.
+   2. Click on "Next" to use the default destination location.
+   3. Click on "Next" to use the default components.
+   4. Click on "Next" to add shortcuts to a "Git" folder.
+   5. **Keep "Use Git from the Windows Command Prompt" selected and click on "Next"**. 
       If you forgot to do this programs that you need for the workshop will not work properly. 
       If this happens rerun the installer and select the appropriate option.
-   4. Click on "Next".
-   5. **Keep "Checkout Windows-style, commit Unix-style line endings" selected and click on "Next"**.
-   6. **Keep "Use Windows' default console window" selected and click on "Next"**.
-   7. Click on "Install".
-   8. Click on "Finish".
+   6. **Keep "Use the OpenSSL library selected and click on "Next"**.
+   7. **Keep "Checkout Windows-style, commit Unix-style line endings" selected and click on "Next"**.
+   8. **Select "Use Windows' default console window" and click on "Next"**.
+   9. Click on "Install".
+   10. Click on "Finish".
 3. If your "HOME" environment variable is not set (or you don't know what this is):
    1. Open command prompt (Open Start Menu then type cmd and press [Enter])
    2. Type the following line into the command prompt window exactly as shown: `setx HOME "%USERPROFILE%"`
