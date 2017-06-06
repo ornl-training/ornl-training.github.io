@@ -6,6 +6,7 @@ Please follow these instructions prior to each lesson shown below.
 
 * Week 1: The shell
 	* Install [The Bash Shell]({{ site.github.url }}/syllabus/setup/#the-bash-shell)
+	* Install [A Text Editor]({{ site.github.url }}/syllabus/setup/#a-text-editor)
 	* Follow the [setup instructions](http://swcarpentry.github.io/shell-novice/setup) for the lesson
 
 * Week 2: Version Control
@@ -13,7 +14,6 @@ Please follow these instructions prior to each lesson shown below.
 
 * Week 3: Python Development Environments
 	* Install [Python]({{ site.github.url }}/syllabus/setup/#python)
-	* Install [A Text Editor]({{ site.github.url }}/syllabus/setup/#a-text-editor)
 	* Install [PyDev]({{ site.github.url }}/syllabus/setup/#pydev)
 
 * Week 4-6: Python I-III
