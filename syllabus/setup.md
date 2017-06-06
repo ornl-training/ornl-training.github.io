@@ -138,6 +138,10 @@ To install it, download the
 and double click on the 
 file to run it. **This installer requires an active internet connection**.
 
+Note: This installer only works on 64-bit Windows. If you have 32-bit Windows (or you get
+an error message when running the installer), you can try following the instructions in
+the 5th comment here: https://github.com/swcarpentry/windows-installer/issues/49
+
 Others editors that you can use are [Notepad++](http://notepad-plus-plus.org/) or 
 [Sublime Text](http://www.sublimetext.com/). **Be aware that you must add 
 its installation directory to your system path**. Please ask your instructor to help you do this.
