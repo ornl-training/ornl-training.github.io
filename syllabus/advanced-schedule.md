@@ -13,7 +13,7 @@ title: Schedule - Scientific Programming with Python and C++ (long course)
 * [Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/)
 * [Finding Things](http://swcarpentry.github.io/shell-novice/07-find/)
 
-### Week 2: [Version Control](http://swcarpentry.github.io/shell-novice)
+### Week 2: [Version Control](http://swcarpentry.github.io/git-novice)
 
 * [What is Version Control?](http://swcarpentry.github.io/git-novice/01-basics/)
 * [Setting Up Git](http://swcarpentry.github.io/git-novice/02-setup/)
