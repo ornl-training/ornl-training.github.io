@@ -24,10 +24,6 @@ title: Schedule - Scientific Programming with Python and C++ (long course)
 * [Remotes in GitHub](http://swcarpentry.github.io/git-novice/07-github/)
 * [Collaborating](http://swcarpentry.github.io/git-novice/08-collab/)
 * [Conflicts](http://swcarpentry.github.io/git-novice/09-conflict/)
-* [Open science](http://swcarpentry.github.io/git-novice/10-open/)
-* [Licensing](http://swcarpentry.github.io/git-novice/11-licensing/)
-* [Citation](http://swcarpentry.github.io/git-novice/12-citation/)
-* [Hosting](http://swcarpentry.github.io/git-novice/13-hosting/)
 
 ### Week 3: [Python Development Environments](https://ornl-ssd.github.io/python-dev-env)
 
