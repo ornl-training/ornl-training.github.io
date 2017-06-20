@@ -14,6 +14,7 @@ Please follow these instructions prior to each lesson shown below.
 
 * Week 3: Python Development Environments
 	* Install [Python]({{ site.github.url }}/syllabus/setup/#python)
+	* Install [Eclipse]({{ site.github.url }}/syllabus/setup/#eclipse)
 	* Install [PyDev]({{ site.github.url }}/syllabus/setup/#pydev)
 
 * Week 4-6: Python I-III
