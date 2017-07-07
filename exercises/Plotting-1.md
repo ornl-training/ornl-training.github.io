@@ -3,7 +3,7 @@ layout: exercise
 title: Plotting 1 - Contour plotting
 ---
 
-In the first lesson, we saw how to load a CSV file using the NumPy `loadtxt` function. 
+In the first Python lesson, we saw how to load a CSV file using the NumPy `loadtxt` function. 
 We're going to use this function again, but this time to load temperature data and 
 create a contour plot.
 
