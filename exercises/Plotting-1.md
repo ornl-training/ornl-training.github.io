@@ -44,7 +44,7 @@ array of the temperature values. So, for example, if the data file contained:
 The first argument to `contourf` would need to be `[[0, 0, 0], [1, 1, 1], [2, 2, 2]]`, the second argument
 would need to be `[[0, 1, 2], [0, 1, 2], [0, 1, 2]]` and the third argument `[[4, 5, 6], [7, 8, 9], [10, 11, 12]]`.
 
-Your job is to write a Python program that will product a filled contour plot of the data file. An outline of the
+Your job is to write a Python program that will produce a filled contour plot of the data file. An outline of the
 program will look something like this:
 
 ```
