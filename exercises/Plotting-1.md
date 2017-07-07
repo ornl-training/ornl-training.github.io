@@ -28,16 +28,18 @@ Unfortunately, the `controurf` function requires the data in a different format 
 provide *by default*. It needs three arguments: a 2-D array of X coordinates, a 2-D array of Y coordinates, and a 2-D
 array of the temperature values. So, for example, if the data file contained:
 
-  3 3 0
-  0 0 4
-  0 1 5
-  0 2 6
-  1 0 7
-  1 1 8
-  1 2 9
-  2 0 10
-  2 1 11
-  2 2 12
+```
+3 3 0
+0 0 4
+0 1 5
+0 2 6
+1 0 7
+1 1 8
+1 2 9
+2 0 10
+2 1 11
+2 2 12
+```
 
 The first argument to `contourf` would need to be `[[0, 0, 0], [1, 1, 1], [2, 2, 2]]`, the second argument
 would need to be `[[0, 1, 2], [0, 1, 2], [0, 1, 2]]` and the third argument `[[4, 5, 6], [7, 8, 9], [10, 11, 12]]`.
@@ -45,19 +47,20 @@ would need to be `[[0, 1, 2], [0, 1, 2], [0, 1, 2]]` and the third argument `[[4
 Your job is to write a Python program that will product a filled contour plot of the data file. An outline of the
 program will look something like this:
 
-  import numpy as np
-  import matplotlib.pyplot as plt
+```
+import numpy as np
+import matplotlib.pyplot as plt
  
-  ...something... = np.loadtxt('data_temp.txt', ...some arguments...)
-  NX = ...extract value...
-  NY = ...extract value...
-  X = ...extract values...
-  Y = ...extract values...
-  T = ...extract values...
+...something... = np.loadtxt('data_temp.txt', ...some arguments...)
+NX = ...extract value...
+NY = ...extract value...
+X = ...extract values...
+Y = ...extract values...
+T = ...extract values...
  
-  plt.figure()
-  cp = plt.contourf(X, Y, T)
-  plt.show()
- 
+plt.figure()
+cp = plt.contourf(X, Y, T)
+plt.show()
+ ```
 
 
