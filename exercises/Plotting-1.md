@@ -17,8 +17,10 @@ X direction, `NX`, the number of points in the Y direction, `NY`, and a value th
 You can assume that the `x` and `y` values are evenly spaced and there are no gaps in the data.
 
 You can use the `loadtxt` function to load the entire file into a NumPy array, however you'll
-need to remove (and save) the `NX`, `NY`, and 0 values from the array before you plot it. You can
-find documentation on using `loadtxt` [here](https://docs.scipy.org/doc/numpy/reference/generated/numpy.loadtxt.html).
+need to remove (and save) the `NX`, `NY`, and 0 values from the array before you plot it using 
+NumPy operations. You can find documentation on using `loadtxt` 
+[here](https://docs.scipy.org/doc/numpy/reference/generated/numpy.loadtxt.html) and NumPy
+[here](https://docs.scipy.org/doc/numpy/reference/index.html).
 
 Once you have the data loaded, you can plot it using the matplotlib `contourf` function (note the `f` at the end
 of the function for plotting "filled" contours). Documentation for `contourf` is 
@@ -43,6 +45,7 @@ array of the temperature values. So, for example, if the data file contained:
 
 The first argument to `contourf` would need to be `[[0, 0, 0], [1, 1, 1], [2, 2, 2]]`, the second argument
 would need to be `[[0, 1, 2], [0, 1, 2], [0, 1, 2]]` and the third argument `[[4, 5, 6], [7, 8, 9], [10, 11, 12]]`.
+You will need to use NumPy to manipulate the arrays in order to obtain the correct format.
 
 Your job is to write a Python program that will produce a filled contour plot of the data file. An outline of the
 program will look something like this:
