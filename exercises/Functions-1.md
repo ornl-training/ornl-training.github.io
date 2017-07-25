@@ -11,3 +11,5 @@ and provide parameters so that they can be usefully reused. Add extra features i
 Make sure you add doc strings to the functions, and add comments in the code where appropriate.
 
 Once you've defined the functions, add some code at the end of the program to call them to create the plot.
+
+A solution to this exercise is available [here]({{ site.github.url }}/code/plot_func.py).
