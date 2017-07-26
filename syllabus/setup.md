@@ -229,8 +229,8 @@ This section assems you've already installed [Eclipse](#eclipse). If you haven't
 
 1. Download Git for Windows SDK. There are two installers, one for 32-bit Windows and one for 64-bit Windows. Use the 64-bit version only if 
 you have 64-bit Windows installed. If unsure, choose the 32-bit version.
-	* 32-bit installer [git-sdk-installer-1.0.3-32.7z.exe](https://github.com/git-for-windows/build-extra/releases/download/git-sdk-1.0.3/git-sdk-installer-1.0.3-32.7z.exe)
-	* 64-bit installer [git-sdk-installer-1.0.3-64.7z.exe](https://github.com/git-for-windows/build-extra/releases/download/git-sdk-1.0.3/git-sdk-installer-1.0.3-64.7z.exe)
+	* 32-bit installer [git-sdk-installer-1.0.6-32.7z.exe](https://github.com/git-for-windows/build-extra/releases/download/git-sdk-1.0.6/git-sdk-installer-1.0.6-32.7z.exe)
+	* 64-bit installer [git-sdk-installer-1.0.6-64.7z.exe](https://github.com/git-for-windows/build-extra/releases/download/git-sdk-1.0.6/git-sdk-installer-1.0.6-64.7z.exe)
 2. Run the installer. Installation will proceed automatically.
 3. The installation will take some time to compelete. 
 
