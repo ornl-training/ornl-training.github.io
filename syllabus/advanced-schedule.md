@@ -25,11 +25,11 @@ title: Schedule - Scientific Programming with Python and C++ (long course)
 * [Collaborating](http://swcarpentry.github.io/git-novice/08-collab/)
 * [Conflicts](http://swcarpentry.github.io/git-novice/09-conflict/)
 
-### Week 3: [Python Development Environments](https://ornl-ssd.github.io/python-dev-env)
+### Week 3: [Python Development Environments](https://ornl-training.github.io/python-dev-env)
 
-* [IPython development environment](https://ornl-ssd.github.io/python-dev-env/01-ipython/)
-* [Jupyter notebooks](https://ornl-ssd.github.io/python-dev-env/02-jupyter/)
-* [PyDev](https://ornl-ssd.github.io/python-dev-env/3-pydev/)
+* [IPython development environment](https://ornl-training.github.io/python-dev-env/01-ipython/)
+* [Jupyter notebooks](https://ornl-training.github.io/python-dev-env/02-jupyter/)
+* [PyDev](https://ornl-training.github.io/python-dev-env/3-pydev/)
 
 ### Week 4: [Programming with Python I](http://swcarpentry.github.io/python-novice-inflammation/)
 
@@ -52,32 +52,32 @@ title: Schedule - Scientific Programming with Python and C++ (long course)
 
 ### Week 7: C++ Development
 
-* [Compiling and Running Programs](http://ornl-ssd.github.io/cpp-compiler-intro/)
-* [The CDT Development Environment](http://ornl-ssd.github.io/cpp-dev-env/)
+* [Compiling and Running Programs](http://ornl-training.github.io/cpp-compiler-intro/)
+* [The CDT Development Environment](http://ornl-training.github.io/cpp-dev-env/)
 
-### Week 8: [Introduction to Makefiles](http://ornl-ssd.github.io/cpp-make-intro/)
+### Week 8: [Introduction to Makefiles](http://ornl-training.github.io/cpp-make-intro/)
 
-* [Introduction](http://ornl-ssd.github.io/cpp-make-intro/01-intro)
-* [Makefiles](http://ornl-ssd.github.io/cpp-make-intro/02-makefiles)
-* [Automatic Variables](http://ornl-ssd.github.io/cpp-make-intro/03-variables)
-* [Dependencies](http://ornl-ssd.github.io/cpp-make-intro/04-dependencies)
+* [Introduction](http://ornl-training.github.io/cpp-make-intro/01-intro)
+* [Makefiles](http://ornl-training.github.io/cpp-make-intro/02-makefiles)
+* [Automatic Variables](http://ornl-training.github.io/cpp-make-intro/03-variables)
+* [Dependencies](http://ornl-training.github.io/cpp-make-intro/04-dependencies)
 
-### Week 9: [Programming with C++ I](http://ornl-ssd.github.io/cpp-novice/)
+### Week 9: [Programming with C++ I](http://ornl-training.github.io/cpp-novice/)
 
-* [Basic Structure](http://ornl-ssd.github.io/cpp-novice/01-structure)
-* [Variables and Types](http://ornl-ssd.github.io/cpp-novice/02-variables)
-* [Constants](http://ornl-ssd.github.io/cpp-novice/03-constants)
-* [Operators](http://ornl-ssd.github.io/cpp-novice/04-operators)
+* [Basic Structure](http://ornl-training.github.io/cpp-novice/01-structure)
+* [Variables and Types](http://ornl-training.github.io/cpp-novice/02-variables)
+* [Constants](http://ornl-training.github.io/cpp-novice/03-constants)
+* [Operators](http://ornl-training.github.io/cpp-novice/04-operators)
 
-### Week 10: [Programming with C++ II](http://ornl-ssd.github.io/cpp-novice/)
+### Week 10: [Programming with C++ II](http://ornl-training.github.io/cpp-novice/)
 
-* [Control of Flow](http://ornl-ssd.github.io/cpp-novice/06-flowcontrol)
-* [Functions](http://ornl-ssd.github.io/cpp-novice/07-functions)
-* [Name Visibility](http://ornl-ssd.github.io/cpp-novice/10-visibility)
+* [Control of Flow](http://ornl-training.github.io/cpp-novice/06-flowcontrol)
+* [Functions](http://ornl-training.github.io/cpp-novice/07-functions)
+* [Name Visibility](http://ornl-training.github.io/cpp-novice/10-visibility)
 
-### Week 11: [Programming with C++ III](http://ornl-ssd.github.io/cpp-novice/)
+### Week 11: [Programming with C++ III](http://ornl-training.github.io/cpp-novice/)
 
-* [Arrays](http://ornl-ssd.github.io/cpp-novice/11-arrays)
-* [Structs](http://ornl-ssd.github.io/cpp-novice/15-struct)
-* [Classes (I)](http://ornl-ssd.github.io/cpp-novice/17-classes1)
-* [Exceptions](http://ornl-ssd.github.io/cpp-novice/23-exceptions)
+* [Arrays](http://ornl-training.github.io/cpp-novice/11-arrays)
+* [Structs](http://ornl-training.github.io/cpp-novice/15-struct)
+* [Classes (I)](http://ornl-training.github.io/cpp-novice/17-classes1)
+* [Exceptions](http://ornl-training.github.io/cpp-novice/23-exceptions)

@@ -6,17 +6,17 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Programming for Scientists
+title:            Programming and Data Analysis for Scientists
 tagline:          'A Jekyll theme'
 description:      'Giving scientists the tools they need to use computers to do better science'
-url:              http://ornl-ssd.github.io/
+url:              http://ornl-training.github.io/
 baseurl:          /training
 
 author:
   name:           'Greg Watson'
 
 github:
-  repo:           https://github.com/ornl-ssd/training/tree/master
+  repo:           https://github.com/ornl-training/ornl-training.github.io/tree/master
 
 gems:
   - jekyll-redirect-from

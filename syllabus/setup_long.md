@@ -27,7 +27,7 @@ it is working correctly.
 	* If you didn't install PyDev in week 3, install [Eclipse]({{ site.github.url }}/syllabus/setup/#eclipse)
 
 * Week 8: Introduction to Makefiles
-	* Follow the [setup instructions](https://ornl-ssd.github.io/cpp-make-intro/setup/) for the lesson
+	* Follow the [setup instructions](https://ornl-training.github.io/cpp-make-intro/setup/) for the lesson
 
 * Week 9-11: Programming with C++ I-III
 	* Nothing required

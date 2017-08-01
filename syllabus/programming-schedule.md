@@ -25,11 +25,11 @@ title: Schedule - Scientific Programming with Python and C++ (short course)
 * [Collaborating](http://swcarpentry.github.io/git-novice/08-collab/)
 * [Conflicts](http://swcarpentry.github.io/git-novice/09-conflict/)
 
-#### Session 3: (11:30 - 12:30) [Python Development Environments](https://ornl-ssd.github.io/python-dev-env)
+#### Session 3: (11:30 - 12:30) [Python Development Environments](https://ornl-training.github.io/python-dev-env)
 
-* [IPython development environment](https://ornl-ssd.github.io/python-dev-env/01-ipython/)
-* [Jupyter notebooks](https://ornl-ssd.github.io/python-dev-env/02-jupyter/)
-* [PyDev development environment](https://ornl-ssd.github.io/python-dev-env/03-pydev/)
+* [IPython development environment](https://ornl-training.github.io/python-dev-env/01-ipython/)
+* [Jupyter notebooks](https://ornl-training.github.io/python-dev-env/02-jupyter/)
+* [PyDev development environment](https://ornl-training.github.io/python-dev-env/03-pydev/)
 
 #### Working Lunch (12:30 - 13:30): Review morning session; address any outstanding issues
 
@@ -53,34 +53,34 @@ title: Schedule - Scientific Programming with Python and C++ (short course)
 
 ### Day 2
 
-#### Session 1: (09:00 - 10:00) [Compiling and Running Programs](http://ornl-ssd.github.io/cpp-compiler-intro/)
+#### Session 1: (09:00 - 10:00) [Compiling and Running Programs](http://ornl-training.github.io/cpp-compiler-intro/)
 
-* [Introduction](http://ornl-ssd.github.io/cpp-compiler-intro/01-intro)
-* [Multiple Source Files](http://ornl-ssd.github.io/cpp-compiler-intro/02-modules)
-* [Object Files](http://ornl-ssd.github.io/cpp-compiler-intro/03-object-files)
+* [Introduction](http://ornl-training.github.io/cpp-compiler-intro/01-intro)
+* [Multiple Source Files](http://ornl-training.github.io/cpp-compiler-intro/02-modules)
+* [Object Files](http://ornl-training.github.io/cpp-compiler-intro/03-object-files)
 
-#### Session 2 (10:30 - 12:00) [Introduction to Make](http://ornl-ssd.github.io/cpp-make-intro/)
+#### Session 2 (10:30 - 12:00) [Introduction to Make](http://ornl-training.github.io/cpp-make-intro/)
 
-* [Introduction](http://ornl-ssd.github.io/cpp-make-intro/01-intro)
-* [Makefiles](http://ornl-ssd.github.io/cpp-make-intro/02-makefiles)
-* [Automatic Variables](http://ornl-ssd.github.io/cpp-make-intro/03-variables)
-* [Dependencies](http://ornl-ssd.github.io/cpp-make-intro/04-dependencies)
+* [Introduction](http://ornl-training.github.io/cpp-make-intro/01-intro)
+* [Makefiles](http://ornl-training.github.io/cpp-make-intro/02-makefiles)
+* [Automatic Variables](http://ornl-training.github.io/cpp-make-intro/03-variables)
+* [Dependencies](http://ornl-training.github.io/cpp-make-intro/04-dependencies)
 
 #### Working Lunch (12:00 - 13:00): Review morning session; address any outstanding issues
 
-#### Session 3: (13:00 - 17:00) [Introduction to C++](http://ornl-ssd.github.io/cpp-novice/)
+#### Session 3: (13:00 - 17:00) [Introduction to C++](http://ornl-training.github.io/cpp-novice/)
 
-* [Basic Structure](http://ornl-ssd.github.io/cpp-novice/01-structure)
-* [Variables and Types](http://ornl-ssd.github.io/cpp-novice/02-variables)
-* [Constants](http://ornl-ssd.github.io/cpp-novice/03-constants)
-* [Operators](http://ornl-ssd.github.io/cpp-novice/04-operators)
-* [Control of Flow](http://ornl-ssd.github.io/cpp-novice/06-flowcontrol)
-* [Functions](http://ornl-ssd.github.io/cpp-novice/07-functions)
-* [Name Visibility](http://ornl-ssd.github.io/cpp-novice/10-visibility)
-* [Arrays](http://ornl-ssd.github.io/cpp-novice/11-arrays)
-* [Structs](http://ornl-ssd.github.io/cpp-novice/15-struct)
-* [Classes (I)](http://ornl-ssd.github.io/cpp-novice/17-classes1)
-* [Exceptions](http://ornl-ssd.github.io/cpp-novice/23-exceptions)
+* [Basic Structure](http://ornl-training.github.io/cpp-novice/01-structure)
+* [Variables and Types](http://ornl-training.github.io/cpp-novice/02-variables)
+* [Constants](http://ornl-training.github.io/cpp-novice/03-constants)
+* [Operators](http://ornl-training.github.io/cpp-novice/04-operators)
+* [Control of Flow](http://ornl-training.github.io/cpp-novice/06-flowcontrol)
+* [Functions](http://ornl-training.github.io/cpp-novice/07-functions)
+* [Name Visibility](http://ornl-training.github.io/cpp-novice/10-visibility)
+* [Arrays](http://ornl-training.github.io/cpp-novice/11-arrays)
+* [Structs](http://ornl-training.github.io/cpp-novice/15-struct)
+* [Classes (I)](http://ornl-training.github.io/cpp-novice/17-classes1)
+* [Exceptions](http://ornl-training.github.io/cpp-novice/23-exceptions)
 
 #### Breaks
 

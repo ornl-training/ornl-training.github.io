@@ -13,4 +13,4 @@ title: Environment 1 - Development environment
 4. Add a header file to the project containing a definition of the function defined in #3 (e.g. func.h), and include the header 
    file (using the `#include` statement) in the main source file. Ensure you can build and run the program.
    
-5. Launch the Eclipse debugger and complete the [following challenge](https://ornl-ssd.github.io/cpp-dev-env/01-cdt/#breakpoints).
+5. Launch the Eclipse debugger and complete the [following challenge](https://ornl-training.github.io/cpp-dev-env/01-cdt/#breakpoints).
