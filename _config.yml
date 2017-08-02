@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Programming and Data Analysis for Scientists
+title:            Programming and Data Analytics for Scientists
 tagline:          'A Jekyll theme'
 description:      'Giving scientists the tools they need to use computers to do better science'
 url:              http://ornl-training.github.io/

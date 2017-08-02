@@ -2,7 +2,7 @@
 layout: default
 ---
 
-This is the website for ORNL's programming and data analysis courses for scientists. 
+This is the website for ORNL's programming and data analytics courses for scientists. 
 
 Currently the following courses are available:
 
