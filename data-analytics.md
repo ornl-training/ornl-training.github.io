@@ -1,17 +1,16 @@
 ---
 layout: page
-title: Scientific Programming with Python and C++
+title: Advanced Data Analytics for Earth Sciences
 ---
 
 Instructor: [Dr. Gregory Watson](mailto:g.watson@computer.org)
 
-* [Syllabus]({{ site.github.url }}/syllabus/advanced-syllabus)
-* [Schedule]({{ site.github.url }}/syllabus/advanced-schedule)
-* [Setup]({{ site.github.url }}/syllabus/advanced-setup)
+* [Syllabus]({{ site.github.url }}/syllabus/data-syllabus)
+* [Schedule]({{ site.github.url }}/syllabus/data-schedule)
+* [Setup]({{ site.github.url }}/syllabus/data-setup)
 
-This course is aimed at providing 
-scientist with in-depth skills necessary to use Python and C++ for scientific 
-computing. In particular the course will cover:
+This course is aimed at providing Earth Scientists with the necessary tools and skills for 
+performing advanced data analytics on geographic data.
 
 Basics:
 
@@ -23,19 +22,32 @@ Development Environments:
 
 * Jupyter notebooks 
 * The PyDev development environment
-* The CDT development environment
 
 Python:
 
 * Programming with Python 3.5
 * Array programming with NumPy
 * The Matplotlib 2D plotting library 
+* Earth science data formats (netcdf, HDF5)
 
-C++:
+Pandas:
 
-* Programming with C++--14
-* Using Makefiles
-* The standard library and STL
+* Introduction to Pandas
+* Time series analysis
+* Data reshaping
+* Geographic data/GIS data manipulation
+* Automated analysis
+
+Advanced Visualization:
+
+* Seaborn
+* Bokeh
+* Datashader
+
+Machine Learning Primer:
+
+* Introduction to machine learning (scikit-learn)
+* Deep learning (Theano/TensorFlow/Keras)
 
 The course will be based on the excellent [Software Carpentry](http://software-carpentry.org/) 
 curriculum and will incorporate pair-programming and live coding. The course will take a

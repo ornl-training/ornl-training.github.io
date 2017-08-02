@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Scientific Programming with Python and C++ (short course)
+title: Scientific Programming with Python and C++
 ---
 
-Instructor: [Dr. Gregory Watson](mailto:watsongr@ornl.gov)
+Instructor: [Dr. Gregory Watson](mailto:g.watson@computer.org)
 
 * [Syllabus]({{ site.github.url }}/syllabus/programming-syllabus)
 * [Schedule]({{ site.github.url }}/syllabus/programming-schedule)
-* [Setup]({{ site.github.url }}/syllabus/setup_short)
+* [Setup]({{ site.github.url }}/syllabus/programming-setup)
 
 Scientific Programming with Python and C++ is aimed at providing 
 scientist with the basic skills necessary to use Python and C++ for

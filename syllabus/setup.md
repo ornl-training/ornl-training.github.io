@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Setup Instructions
+title: General Setup Instructions
 ---
 ## Python
 
