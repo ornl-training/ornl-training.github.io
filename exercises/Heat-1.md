@@ -28,3 +28,5 @@ $$ a = $$
 $$ \eta = $$
 
 Experiment with using different values of $$ x $$ and $$ y $$ and see what results you obtain.
+
+[^1]: D. Rosenthal, Mathematical Theory of Heat Distribution during Welding and Cutting, Weld. J., Vol 20, 1941, p 220s–234s
