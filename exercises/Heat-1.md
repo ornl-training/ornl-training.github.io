@@ -22,3 +22,6 @@ Use the following initial values $$ T_0 = 200.0 $$, $$ V = 20.0 $$, $$ I = 200.0
 Experiment with using different values of $$ x $$ and $$ y $$ and see what results you obtain.
 
 [^1]: D. Rosenthal, Mathematical Theory of Heat Distribution during Welding and Cutting, Weld. J., Vol 20, 1941, p 220s–234s
+
+A solution to this exercise is available [here]({{ site.github.url }}/code/heat_1.cpp).
+
