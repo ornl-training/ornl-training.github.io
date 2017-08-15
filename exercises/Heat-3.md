@@ -1,13 +1,14 @@
 ---
 layout: exercise
-title: Heat 2 - 2-D Heat Transfer Model Function
+title: Heat 3 - 2-D Heat Transfer Model Function
 ---
 
 In the [the previous exercise]({{ site.github.url }}/exercises/Heat-2), you developed an algorithm for computing the temperature over a grid
 of $$ x $$ and $$ y $$ values. Now we would like to modify it so that we can experiment with different grids sizes and spacings. 
 
-Using your knowledge of functions in C++, modify the program so that the algorithm code is moved into a function called `calc_temperature` that 
-takes as arguments a minimum and maximum values for $$ x $$ and $$ y $$ as well as a grid spacing value. 
+Using your knowledge of functions in C++, change the program so that the algorithm code is moved into a function called `calc_temperature` that 
+takes as arguments a minimum and maximum value for $$ x $$ and $$ y $$, as well as a grid spacing value. Modify the algorithm so that it uses the
+supplied grid spacing, rather than the value of 1 used previously.
 
 The program should then output the following:
 
