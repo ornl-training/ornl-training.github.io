@@ -35,12 +35,11 @@ int main() {
 	double x = 0.0;
 	double y = 0.0;
 	double z = 1.0;
-	double step = 1.0;
 	double R;
 	double T;
 
-	for (x = x_min; x <= x_max; x += step) {
-		for (y = y_min; y <= y_max; y += step) {
+	for (x = x_min; x <= x_max; x++) {
+		for (y = y_min; y <= y_max; y++) {
 			R = sqrt(x*x + y*y + z*z);
 
 			T = T_0 + (eta * V * I) / (2 * pi * lambda) * (1 / R) * exp(-(v / (2 * a) * (R + x)));
