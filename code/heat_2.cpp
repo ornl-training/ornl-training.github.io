@@ -1,7 +1,7 @@
 /*
- * heat_1.cpp
+ * heat_2.cpp
  *
- * Compute the temperature at a given location (x, y, z) on a plate being arc welded
+ * Compute the temperature over the plane (x, y, 1) on a plate being arc welded
  * using the Rosenthal equation [1].
  *
  *  Created on: Aug 15, 2017
@@ -28,17 +28,29 @@ const double pi = 3.1415926535897;
 
 // x = y = z = 0 is undefined!
 int main() {
+	double x_min = -30;
+	double x_max = 10;
+	double y_min = -20;
+	double y_max = 20;
 	double x = 0.0;
 	double y = 0.0;
 	double z = 1.0;
+	double step = 1.0;
 	double R;
 	double T;
 
-	R = sqrt(x*x + y*y + z*z);
+	for (x = x_min; x <= x_max; x += step) {
+		for (y = y_min; y <= y_max; y += step) {
+			R = sqrt(x*x + y*y + z*z);
 
-	T = T_0 + (eta * V * I) / (2 * pi * lambda) * (1 / R) * exp(-(v / (2 * a) * (R + x)));
+			T = T_0 + (eta * V * I) / (2 * pi * lambda) * (1 / R) * exp(-(v / (2 * a) * (R + x)));
 
-	cout << "T{" << x << "," << R << "} = " << T << endl;
+			cout << "T{" << x << "," << R << "} = " << T << endl;
+		}
+	}
 
 	return 0;
 }
+
+
+
