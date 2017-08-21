@@ -1,6 +1,6 @@
 ---
 layout: exercise
-title: Heat 3 - Using Arrays
+title: Heat 4 - Using Arrays
 ---
 
 Rather than having the `calc_temperature` function print out the values for the temperatures, it would be more useful if it calculated the values
@@ -40,7 +40,6 @@ double ** calc_temperature(double x_min, double x_max, double y_min, double y_ma
 {: .code}
 
 One other thing to note is that the equation uses `x` and `y` values that range from negative to positive, and are used in `step` increments. 
-
 *C++ arrays can't have negative indices!* In order to use them, you will need to keep counters for both the array coordinates and the equation
 coordinates.
 
