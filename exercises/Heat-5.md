@@ -33,8 +33,7 @@ class HeatTransfer {
 ~~~
 {: .code}
 
-Write the code for the `HeatTransfer::calc_temperature()` and `HeatTransfer::create_array()` methods. Then change the main program to use the 
-class as follows:
+Modify the solution to [the previous exercise]({{ site.github.url }}/exercises/Heat-4) to add code for the `HeatTransfer::calc_temperature()` and `HeatTransfer::create_array()` methods. Then change the main program to use the class as follows:
 
 ~~~
 int main() {

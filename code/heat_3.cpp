@@ -57,6 +57,3 @@ int main() {
 	calc_temperature(x_min, x_max, y_min, y_max, step);
 	return 0;
 }
-
-
-

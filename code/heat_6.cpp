@@ -1,8 +1,9 @@
 /*
- * heat_5.cpp
+ * heat_6.cpp
  *
  * Compute the temperature over the plane (x, y, 1) on a plate being arc welded
- * using the Rosenthal equation [1]. Output in plot file format.
+ * using the Rosenthal equation [1]. Output in plot file format. Reads minimum and
+ * maximum x and y values from the command line.
  *
  *  Created on: Aug 15, 2017
  *      Author: gw6
@@ -79,13 +80,23 @@ double ** HeatTransfer::calc_temperature(double x_min, double x_max, double y_mi
 	return T;
 }
 
-int main() {
-	double x_min = -30;
-	double x_max = 10;
-	double y_min = -20;
-	double y_max = 20;
+int main(int argc, char *argv[]) {
+	double x_min;
+	double x_max;
+	double y_min;
+	double y_max;
 	double step = 1.0;
 	double ** temp;
+	
+	if (argc < 5) {
+		cerr << "usage: " << argv[0] << " x_min x_max y_min y_max" << endl;
+		return 1;
+	}
+	
+	x_min = atof(argv[1]);
+	x_max = atof(argv[2]);
+	y_min = atof(argv[3]);
+	y_max = atof(argv[4]);
 	
 	HeatTransfer model(T_0, V, I, v, a, eta, lambda);
 	
