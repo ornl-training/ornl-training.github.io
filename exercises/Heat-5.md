@@ -21,11 +21,11 @@ class HeatTransfer {
 		
 	public:
 		HeatTransfer(double T_0, double V, double I, double v, 
-			double a, double eta, double lambda)
-				: T_0(T_0), V(V), I(I), v(v), a(a), eta(eta), 
-			  	  lambda(lambda) {}
+		  double a, double eta, double lambda)
+			: T_0(T_0), V(V), I(I), v(v), a(a), eta(eta), 
+			  lambda(lambda) {}
 		double ** calc_temperature(double x_min, double x_max, 
-			double y_min, double y_max, double step);
+		  double y_min, double y_max, double step);
 		
 	private:
 		double ** create_array(int nx, int ny);
