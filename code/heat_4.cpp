@@ -1,0 +1,92 @@
+/*
+ * heat_4.cpp
+ *
+ * Compute the temperature over the plane (x, y, 1) on a plate being arc welded
+ * using the Rosenthal equation [1]. Output in plot file format.
+ *
+ *  Created on: Aug 15, 2017
+ *      Author: gw6
+ *
+ * [1] D. Rosenthal, Mathematical Theory of Heat Distribution during Welding and Cutting,
+ *     Weld. J., Vol 20, 1941, p 220s–234s
+ */
+
+#include <iostream>
+#include <cmath>
+
+using namespace std;
+
+const double T_0 = 200.0; 	// preheat temperature
+const double V = 20.0; 		// voltage
+const double I = 200.0; 		// current
+const double v = 5;			// welding speed
+const double a = 84.18;		// thermal diffusivity
+const double eta = 0.84;		// arc efficiency
+const double lambda = 204.2; // thermal conductivity
+
+const double pi = 3.1415926535897;
+
+double ** create_array(int nx, int ny) {
+    double ** array = new double*[nx];
+    
+    for (int x = 0 ; x < nx; x++) {
+        array[x] = new double[ny];
+    }
+    
+    return array;
+}
+
+// x = y = z = 0 is undefined!
+double ** calc_temperature(double x_min, double x_max, double y_min, double y_max, double step) {
+	double x;
+	double y;
+	double R;
+
+    double ** T = create_array((x_max - x_min) / step + 1, (y_max - y_min) / step + 1);
+    
+	double z = 1.0;
+
+	int r = 0;
+	for (x = x_min; x <= x_max; x += step) {
+		int c = 0;
+		for (y = y_min; y <= y_max; y += step) {
+			R = sqrt(x*x + y*y + z*z);
+			T[r][c] = T_0 + (eta * V * I) / (2 * pi * lambda) * (1 / R) * exp(-(v / (2 * a) * (R + x)));
+			c++;
+		}
+		r++;
+	}
+	
+	return T;
+}
+
+int main() {
+	double x_min = -30;
+	double x_max = 10;
+	double y_min = -20;
+	double y_max = 20;
+	double step = 1.0;
+	double ** temp;
+	
+	int nx = (x_max - x_min) / step + 1;
+	int ny = (y_max - y_min) / step + 1;
+
+	cout << nx << " " << ny << " " << 0 << endl;
+	
+	temp = calc_temperature(x_min, x_max, y_min, y_max, step);
+	
+	int x = x_min;
+	for (int r = 0; r < nx; r++) {
+		int y = y_min;
+		for (int c = 0; c < ny; c++) {
+		    cout << x << " " << y << " " << temp[r][c] << endl;
+		    y += step;
+		}
+		x += step;
+	}
+	
+	return 0;
+}
+
+
+

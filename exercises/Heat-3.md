@@ -15,5 +15,5 @@ The program should then output the following:
 1. A single line containing the number of $$ x $$ values, the number of $$ y $$ values, and a 0 separated by spaces.
 2. For each element in the grid of $$ x, y $$ values, a line containing the corresponding $$ x $$ value, $$ y $$ value, and temperature, separated by spaces.
 
-<!-- A solution to this exercise is available [here]({{ site.github.url }}/code/heat_3.cpp).-->
+A solution to this exercise is available [here]({{ site.github.url }}/code/heat_3.cpp).
 
