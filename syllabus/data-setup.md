@@ -7,6 +7,7 @@ The lessons in this course require a number of software packages to be available
 the instructions in the following sections to ensure you have the correct packages installed. If you have problems
 installing any of the packages (particularly Windows), see the 
 [configuration problems and solutions](https://github.com/swcarpentry/workshop-template/wiki/Configuration-Problems-and-Solutions) page.
+Additional information can also be found [here](https://swcarpentry.github.io/workshop-template/#setup).
 
 ## Day 1
 
