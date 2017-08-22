@@ -12,7 +12,7 @@ title: Schedule - Data Analytics for Earth Sciences
 
 #### Coffee Break (10:00 - 10:30)
 
-#### Session 2 (10:30 - 12:00): [The Shell](http://swcarpentry.github.io/shell-novice)
+#### Session 2 (10:30 - 12:00): [The Shell (cont.)](http://swcarpentry.github.io/shell-novice)
 
 * [Working With Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/)
 * [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/)
@@ -30,7 +30,7 @@ title: Schedule - Data Analytics for Earth Sciences
 
 #### Coffee Break (15:00 - 15:30)
 
-#### Session 3 (15:30 - 17:00) : [Version Control](http://swcarpentry.github.io/git-novice)
+#### Session 3 (15:30 - 17:00) : [Version Control (cont.)](http://swcarpentry.github.io/git-novice)
 
 * [Ignoring Things](http://swcarpentry.github.io/git-novice/06-ignore/)
 * [Remotes in GitHub](http://swcarpentry.github.io/git-novice/07-github/)
@@ -51,8 +51,8 @@ title: Schedule - Data Analytics for Earth Sciences
 
 #### Lunch (12:00 - 13:00): Review morning session; address any outstanding issues
 
-#### Session 6 (13:00 - 15:00): [Introduction to Python]()
+#### Session 6 (13:00 - 15:00): [Introduction to Python (cont.)]()
 
 #### Coffee Break (15:00 - 15:30)
 
-#### Session 7 (15:30 - 17:00): [Introduction to Python]()
+#### Session 7 (15:30 - 17:00): [Introduction to Python (cont.)]()
