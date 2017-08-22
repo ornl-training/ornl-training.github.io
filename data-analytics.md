@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Advanced Data Analytics for Earth Sciences
+title: Data Analytics for Earth Sciences
 ---
 
 Instructor: [Dr. Gregory Watson](mailto:g.watson@computer.org)
 
-* [Syllabus]({{ site.github.url }}/syllabus/data-syllabus)
 * [Schedule]({{ site.github.url }}/syllabus/data-schedule)
 * [Setup]({{ site.github.url }}/syllabus/data-setup)
 
