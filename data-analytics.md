@@ -38,6 +38,7 @@ Pandas:
 * Geographic data/GIS data manipulation
 * Automated analysis
 
+<!--
 Advanced Visualization:
 
 * Seaborn
@@ -48,7 +49,7 @@ Machine Learning Primer:
 
 * Introduction to machine learning (scikit-learn)
 * Deep learning (Theano/TensorFlow/Keras)
-
+-->
 The course will be based on the excellent [Software Carpentry](http://software-carpentry.org/) 
 curriculum and will incorporate pair-programming and live coding. The course will take a
 student-centered, active learning, approach to teaching this material. Class
