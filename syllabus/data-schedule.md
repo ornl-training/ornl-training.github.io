@@ -12,7 +12,7 @@ title: Schedule - Data Analytics for Earth Sciences
 
 #### Coffee Break (10:00 - 10:30)
 
-### Session 2 (10:30 - 12:00): [The Shell](http://swcarpentry.github.io/shell-novice)
+#### Session 2 (10:30 - 12:00): [The Shell](http://swcarpentry.github.io/shell-novice)
 
 * [Working With Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/)
 * [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/)
