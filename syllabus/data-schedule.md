@@ -30,7 +30,7 @@ title: Schedule - Data Analytics for Earth Sciences
 
 #### Coffee Break (15:00 - 15:30)
 
-#### Session 3 (15:30 - 17:00) : [Version Control (cont.)](http://swcarpentry.github.io/git-novice)
+#### Session 4 (15:30 - 17:00) : [Version Control (cont.)](http://swcarpentry.github.io/git-novice)
 
 * [Ignoring Things](http://swcarpentry.github.io/git-novice/06-ignore/)
 * [Remotes in GitHub](http://swcarpentry.github.io/git-novice/07-github/)
@@ -39,20 +39,37 @@ title: Schedule - Data Analytics for Earth Sciences
 
 ### Day 2
 
-#### Session 4: (09:00 - 10:30) [Python Development Environments](https://ornl-training.github.io/python-dev-env)
+#### Session 5 (09:00 - 10:30): [Introduction to Python](https://swcarpentry.github.io/python-novice-gapminder/)
 
-* [IPython development environment](https://ornl-training.github.io/python-dev-env/01-ipython/)
-* [Jupyter notebooks](https://ornl-training.github.io/python-dev-env/02-jupyter/)
-* [PyDev development environment](https://ornl-training.github.io/python-dev-env/03-pydev/)
+* [Running and Quitting](https://swcarpentry.github.io/python-novice-gapminder/01-run-quit/)
+* [Variables and Assignment](https://swcarpentry.github.io/python-novice-gapminder/02-variables/)
+* [Data Types and Type Conversion](https://swcarpentry.github.io/python-novice-gapminder/03-types-conversion/)
+* [Built-in Functions and Help](https://swcarpentry.github.io/python-novice-gapminder/04-built-in/)
 
 #### Coffee Break (10:30 - 11:00)
 
-#### Session 5 (11:00 - 12:00): [Introduction to Python]()
+#### Session 6 (11:00 - 12:15): [Introduction to Python (cont.)](https://swcarpentry.github.io/python-novice-gapminder/)
 
-#### Lunch (12:00 - 13:00): Review morning session; address any outstanding issues
+* [Libraries](https://swcarpentry.github.io/python-novice-gapminder/06-libraries/)
+* [Reading Tabular Data into DataFrames](https://swcarpentry.github.io/python-novice-gapminder/07-reading-tabular/)
+* [Pandas DataFrames](https://swcarpentry.github.io/python-novice-gapminder/08-data-frames/)
+* [Plotting](https://swcarpentry.github.io/python-novice-gapminder/09-plotting/)
 
-#### Session 6 (13:00 - 15:00): [Introduction to Python (cont.)]()
+#### Lunch (12:15 - 13:00): Review morning session; address any outstanding issues
+
+#### Session 7 (13:00 - 15:00): [Introduction to Python (cont.)](https://swcarpentry.github.io/python-novice-gapminder/)
+
+* [Lists](https://swcarpentry.github.io/python-novice-gapminder/11-lists/)
+* [For Loops](https://swcarpentry.github.io/python-novice-gapminder/12-for-loops/)
+* [Looping Over Data Sets](https://swcarpentry.github.io/python-novice-gapminder/13-looping-data-sets/)
+* [Writing Functions](https://swcarpentry.github.io/python-novice-gapminder/14-writing-functions/)
+* [Variable Scope](https://swcarpentry.github.io/python-novice-gapminder/15-scope/)
 
 #### Coffee Break (15:00 - 15:30)
 
-#### Session 7 (15:30 - 17:00): [Introduction to Python (cont.)]()
+#### Session 7 (15:30 - 16:30): [Introduction to Python (cont.)](https://swcarpentry.github.io/python-novice-gapminder/)
+
+* [Conditionals](https://swcarpentry.github.io/python-novice-gapminder/17-conditionals/)
+* [Programming Style](https://swcarpentry.github.io/python-novice-gapminder/18-style/)
+* [Wrapup](https://swcarpentry.github.io/python-novice-gapminder/19-wrap/)
+* [Feedback](https://swcarpentry.github.io/python-novice-gapminder/20-feedback/)
