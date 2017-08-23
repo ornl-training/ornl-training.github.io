@@ -14,7 +14,7 @@ class HeatTransfer {
 		double T_0;
 		double V;
 		double I;
-		double v
+		double v;
 		double a;
 		double eta;
 		double lambda;

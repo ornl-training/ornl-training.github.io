@@ -18,7 +18,7 @@ Once you have completed this, try redirecting the output into a file, then plott
 
 ~~~
 ./heat -30 10 -20 20 > heat.out
-python plot_func heat.out
+python plot_func.py heat.out
 ~~~
 {: .bash}
 

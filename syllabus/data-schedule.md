@@ -9,14 +9,16 @@ title: Schedule - Data Analytics for Earth Sciences
 
 * [Introducing the Shell](http://swcarpentry.github.io/shell-novice/01-intro/)
 * [Navigating Files and Directories](http://swcarpentry.github.io/shell-novice/02-filedir/)
+* [Working With Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/)
 
 #### Coffee Break (10:00 - 10:30)
 
 #### Session 2 (10:30 - 12:00): [The Shell (cont.)](http://swcarpentry.github.io/shell-novice)
 
-* [Working With Files and Directories](http://swcarpentry.github.io/shell-novice/03-create/)
 * [Pipes and Filters](http://swcarpentry.github.io/shell-novice/04-pipefilter/)
 * [Loops](http://swcarpentry.github.io/shell-novice/05-loop/)
+* [Shell Scripts](http://swcarpentry.github.io/shell-novice/06-script/)
+* [Finding Things](http://swcarpentry.github.io/shell-novice/07-find/)
 
 #### Lunch (12:00 - 13:00): Review morning session; address any outstanding issues
 
@@ -36,6 +38,10 @@ title: Schedule - Data Analytics for Earth Sciences
 * [Remotes in GitHub](http://swcarpentry.github.io/git-novice/07-github/)
 * [Collaborating](http://swcarpentry.github.io/git-novice/08-collab/)
 * [Conflicts](http://swcarpentry.github.io/git-novice/09-conflict/)
+* [Open Science](http://swcarpentry.github.io/git-novice/10-open/)
+* [Licensing](http://swcarpentry.github.io/git-novice/11-licensing/)
+* [Citation](http://swcarpentry.github.io/git-novice/12-citation/)
+* [Hosting](http://swcarpentry.github.io/git-novice/13-hosting/)
 
 ### Day 2
 
@@ -67,7 +73,7 @@ title: Schedule - Data Analytics for Earth Sciences
 
 #### Coffee Break (15:00 - 15:30)
 
-#### Session 7 (15:30 - 16:30): [Introduction to Python (cont.)](https://swcarpentry.github.io/python-novice-gapminder/)
+#### Session 8 (15:30 - 16:30): [Introduction to Python (cont.)](https://swcarpentry.github.io/python-novice-gapminder/)
 
 * [Conditionals](https://swcarpentry.github.io/python-novice-gapminder/17-conditionals/)
 * [Programming Style](https://swcarpentry.github.io/python-novice-gapminder/18-style/)
