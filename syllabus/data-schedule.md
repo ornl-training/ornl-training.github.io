@@ -45,37 +45,37 @@ title: Schedule - Data Analytics for Earth Sciences
 
 ### Day 2
 
-#### Session 5 (09:00 - 10:30): [Introduction to Python](https://swcarpentry.github.io/python-novice-gapminder/)
+#### Session 5 (09:00 - 10:30): [Introduction to Python](https://ornl-training.github.io/python-novice-gapminder/)
 
-* [Running and Quitting](https://swcarpentry.github.io/python-novice-gapminder/01-run-quit/)
-* [Variables and Assignment](https://swcarpentry.github.io/python-novice-gapminder/02-variables/)
-* [Data Types and Type Conversion](https://swcarpentry.github.io/python-novice-gapminder/03-types-conversion/)
-* [Built-in Functions and Help](https://swcarpentry.github.io/python-novice-gapminder/04-built-in/)
+* [Running and Quitting](https://ornl-training.github.io/python-novice-gapminder/01-run-quit/)
+* [Variables and Assignment](https://ornl-training.github.io/python-novice-gapminder/02-variables/)
+* [Data Types and Type Conversion](https://ornl-training.github.io/python-novice-gapminder/03-types-conversion/)
+* [Built-in Functions and Help](https://ornl-training.github.io/python-novice-gapminder/04-built-in/)
 
 #### Coffee Break (10:30 - 11:00)
 
-#### Session 6 (11:00 - 12:15): [Introduction to Python (cont.)](https://swcarpentry.github.io/python-novice-gapminder/)
+#### Session 6 (11:00 - 12:15): [Introduction to Python (cont.)](https://ornl-training.github.io/python-novice-gapminder/)
 
-* [Libraries](https://swcarpentry.github.io/python-novice-gapminder/06-libraries/)
-* [Reading Tabular Data into DataFrames](https://swcarpentry.github.io/python-novice-gapminder/07-reading-tabular/)
-* [Pandas DataFrames](https://swcarpentry.github.io/python-novice-gapminder/08-data-frames/)
-* [Plotting](https://swcarpentry.github.io/python-novice-gapminder/09-plotting/)
+* [Libraries](https://ornl-training.github.io/python-novice-gapminder/06-libraries/)
+* [Reading Tabular Data into DataFrames](https://ornl-training.github.io/python-novice-gapminder/07-reading-tabular/)
+* [Pandas DataFrames](https://ornl-training.github.io/python-novice-gapminder/08-data-frames/)
+* [Plotting](https://ornl-training.github.io/python-novice-gapminder/09-plotting/)
 
 #### Lunch (12:15 - 13:00): Review morning session; address any outstanding issues
 
-#### Session 7 (13:00 - 15:00): [Introduction to Python (cont.)](https://swcarpentry.github.io/python-novice-gapminder/)
+#### Session 7 (13:00 - 15:00): [Introduction to Python (cont.)](https://ornl-training.github.io/python-novice-gapminder/)
 
-* [Lists](https://swcarpentry.github.io/python-novice-gapminder/11-lists/)
-* [For Loops](https://swcarpentry.github.io/python-novice-gapminder/12-for-loops/)
-* [Looping Over Data Sets](https://swcarpentry.github.io/python-novice-gapminder/13-looping-data-sets/)
-* [Writing Functions](https://swcarpentry.github.io/python-novice-gapminder/14-writing-functions/)
-* [Variable Scope](https://swcarpentry.github.io/python-novice-gapminder/15-scope/)
+* [Lists](https://ornl-training.github.io/python-novice-gapminder/11-lists/)
+* [For Loops](https://ornl-training.github.io/python-novice-gapminder/12-for-loops/)
+* [Looping Over Data Sets](https://ornl-training.github.io/python-novice-gapminder/13-looping-data-sets/)
+* [Writing Functions](https://ornl-training.github.io/python-novice-gapminder/14-writing-functions/)
+* [Variable Scope](https://ornl-training.github.io/python-novice-gapminder/15-scope/)
 
 #### Coffee Break (15:00 - 15:30)
 
-#### Session 8 (15:30 - 16:30): [Introduction to Python (cont.)](https://swcarpentry.github.io/python-novice-gapminder/)
+#### Session 8 (15:30 - 16:30): [Introduction to Python (cont.)](https://ornl-training.github.io/python-novice-gapminder/)
 
-* [Conditionals](https://swcarpentry.github.io/python-novice-gapminder/17-conditionals/)
-* [Programming Style](https://swcarpentry.github.io/python-novice-gapminder/18-style/)
-* [Wrapup](https://swcarpentry.github.io/python-novice-gapminder/19-wrap/)
-* [Feedback](https://swcarpentry.github.io/python-novice-gapminder/20-feedback/)
+* [Conditionals](https://ornl-training.github.io/python-novice-gapminder/17-conditionals/)
+* [Programming Style](https://ornl-training.github.io/python-novice-gapminder/18-style/)
+* [Wrapup](https://ornl-training.github.io/python-novice-gapminder/19-wrap/)
+* [Feedback](https://ornl-training.github.io/python-novice-gapminder/20-feedback/)
