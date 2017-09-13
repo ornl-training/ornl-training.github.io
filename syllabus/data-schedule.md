@@ -79,3 +79,36 @@ title: Schedule - Data Analytics for Earth Sciences
 * [Programming Style](https://ornl-training.github.io/python-novice-gapminder/18-style/)
 * [Wrapup](https://ornl-training.github.io/python-novice-gapminder/19-wrap/)
 * [Feedback](https://ornl-training.github.io/python-novice-gapminder/20-feedback/)
+
+### Day 3
+
+#### Session 1 (09:00 - 12:00): [Introduction to Pandas](https://ornl-training.github.io/python-pandas/)
+
+#### Coffee Break (10:00 - 10:30)
+
+#### Session 2 (10:30 - 12:00): [Introduction to Pandas (cont.)](https://ornl-training.github.io/python-pandas/)
+
+#### Lunch (12:00 - 13:00): Review morning session; address any outstanding issues
+
+#### Session 3 (13:00 - 15:00) : [Introduction to Pandas (cont.)](https://ornl-training.github.io/python-pandas/)
+
+#### Coffee Break (15:00 - 15:30)
+
+#### Session 4 (15:30 - 17:00) : [Introduction to Pandas (cont.)](https://ornl-training.github.io/python-pandas/)
+
+### Day 4
+
+#### Session 5 (09:00 - 10:30): [Geopandas - Pandas Geospatial Analysis](http://geopandas.org)
+
+#### Coffee Break (10:30 - 11:00)
+
+#### Session 6 (11:00 - 12:15): [Geopandas - Pandas Geospatial Analysis (cont.)](http://geopandas.org)
+
+#### Lunch (12:15 - 13:00): Review morning session; address any outstanding issues
+
+#### Session 7 (13:00 - 15:00): [Advanced Visualization](https://matplotlib.org/)
+
+#### Coffee Break (15:00 - 15:30)
+
+#### Session 8 (15:30 - 16:30): [Advanced Visualization (cont.)](https://bokeh.pydata.org/en/latest/)
+
