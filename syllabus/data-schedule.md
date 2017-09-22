@@ -85,7 +85,7 @@ title: Schedule - Data Analytics for Earth Sciences
 #### Session 1 (09:00 - 11:00): [Introduction to Pandas](https://ornl-training.github.io/python-pandas/)
 
 * [Starting With Data](https://ornl-training.github.io/python-pandas/01-starting-with-data/)
-* [Indexing, Slicing and Subsetting DataFrames in Python](https://ornl-training.github.io/python-pandas/02-index-slice-subset/)
+* [Indexing, Slicing and Subsetting DataFrames](https://ornl-training.github.io/python-pandas/02-index-slice-subset/)
 
 #### Coffee Break (11:00 - 11:15)
 
@@ -97,15 +97,15 @@ title: Schedule - Data Analytics for Earth Sciences
 
 #### Session 3 (13:00 - 15:30) : [Introduction to Pandas (cont.)](https://ornl-training.github.io/python-pandas/)
 
-* [Combining DataFrames with pandas](https://ornl-training.github.io/python-pandas/04-merging-data/)
+* [Combining DataFrames](https://ornl-training.github.io/python-pandas/04-merging-data/)
 * [Making Plots With ggplot](https://ornl-training.github.io/python-pandas/06-visualization-ggplot-python/)
 
 #### Coffee Break (15:30 - 15:45)
 
 #### Session 4 (15:45 - 17:00) : [Introduction to Pandas (cont.)](https://ornl-training.github.io/python-pandas/)
 
-* [Data Ingest & Visualization - Matplotlib & Pandas](https://ornl-training.github.io/python-pandas/07-putting-it-all-together/)
-* [Accessing SQLite Databases Using Python & Pandas](https://ornl-training.github.io/python-pandas/08-working-with-sql/)
+* [Data Ingest & Visualization](https://ornl-training.github.io/python-pandas/07-putting-it-all-together/)
+* [Time Series Analysis](https://ornl-training.github.io/python-pandas/08-working-with-sql/)
 
 ### Day 4
 
@@ -118,16 +118,20 @@ title: Schedule - Data Analytics for Earth Sciences
 
 #### Session 6 (11:00 - 12:15): [Using Pandas for Geospatial Analysis (cont.)](https://ornl-training.github.io/python-advanced-pandas/)
 
-* [Structuring the Data](https://ornl-training.github.io/python-advanced-pandas/03-structuring-data/)
+* [Structuring Data](https://ornl-training.github.io/python-advanced-pandas/03-structuring-data/)
 * [Object Oriented Programming](https://ornl-training.github.io/python-advanced-pandas/04-classes/)
 
 #### Lunch (12:15 - 13:00): Review morning session; address any outstanding issues
 
 #### Session 7 (13:00 - 15:00): [Using Pandas for Geospatial Analysis (cont.)](https://ornl-training.github.io/python-advanced-pandas/)
 
-* [Creating an Emissions Class](https://ornl-training.github.io/python-advanced-pandas/05-emissions-class/)
+* [Creating an Class](https://ornl-training.github.io/python-advanced-pandas/05-emissions-class/)
+* [Using the Class]()
 
 #### Coffee Break (15:00 - 15:30)
 
 #### Session 8 (15:30 - 16:30): [Using Pandas for Geospatial Analysis (cont.)](https://ornl-training.github.io/python-advanced-pandas/)
+
+* [Plotting Results]()
+* [Wrap Up]()
 
