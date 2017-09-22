@@ -125,8 +125,8 @@ title: Schedule - Data Analytics for Earth Sciences
 
 #### Session 7 (13:00 - 15:00): [Using Pandas for Geospatial Analysis (cont.)](https://ornl-training.github.io/python-advanced-pandas/)
 
-* [Creating an Class](https://ornl-training.github.io/python-advanced-pandas/05-emissions-class/)
-* [Using the Class]()
+* [Creating a Class](https://ornl-training.github.io/python-advanced-pandas/05-emissions-class/)
+* [Data Analysis Using the Class]()
 
 #### Coffee Break (15:00 - 15:30)
 
