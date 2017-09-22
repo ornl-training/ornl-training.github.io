@@ -82,23 +82,23 @@ title: Schedule - Data Analytics for Earth Sciences
 
 ### Day 3
 
-#### Session 1 (09:00 - 10:30): [Introduction to Pandas](https://ornl-training.github.io/python-pandas/)
+#### Session 1 (09:00 - 11:00): [Introduction to Pandas](https://ornl-training.github.io/python-pandas/)
 
 * [Starting With Data](https://ornl-training.github.io/python-pandas/01-starting-with-data/)
 * [Indexing, Slicing and Subsetting DataFrames in Python](https://ornl-training.github.io/python-pandas/02-index-slice-subset/)
 
-#### Coffee Break (10:30 - 11:00)
+#### Coffee Break (11:00 - 11:15)
 
-#### Session 2 (11:30 - 12:15): [Introduction to Pandas (cont.)](https://ornl-training.github.io/python-pandas/)
+#### Session 2 (11:15 - 12:00): [Introduction to Pandas (cont.)](https://ornl-training.github.io/python-pandas/)
 
 * [Data Types and Formats](https://ornl-training.github.io/python-pandas/03-data-types-and-format/)
 
-#### Lunch (12:15 - 13:00): Review morning session; address any outstanding issues
+#### Lunch (12:00 - 13:00): Review morning session; address any outstanding issues
 
 #### Session 3 (13:00 - 15:30) : [Introduction to Pandas (cont.)](https://ornl-training.github.io/python-pandas/)
 
 * [Combining DataFrames with pandas](https://ornl-training.github.io/python-pandas/04-merging-data/)
-* [Making Plots With ggplot](https://ornl-training.github.io/python-pandas/06-visualization-ggplot-python/](https://ornl-training.github.io/python-pandas/06-visualization-ggplot-python/)
+* [Making Plots With ggplot](https://ornl-training.github.io/python-pandas/06-visualization-ggplot-python/)
 
 #### Coffee Break (15:30 - 15:45)
 
