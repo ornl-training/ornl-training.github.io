@@ -112,20 +112,20 @@ title: Schedule - Data Analytics for Earth Sciences
 #### Session 5 (09:00 - 10:30): [Using Pandas for Geospatial Analysis](https://ornl-training.github.io/python-advanced-pandas/)
 
 * [NetCDF Primer](https://ornl-training.github.io/python-advanced-pandas/01-data-formats/)
-* [Converting to Pandas](https://ornl-training.github.io/python-advanced-pandas/02-converting/)
+* [Using NetCDF with Pandas](https://ornl-training.github.io/python-advanced-pandas/02-converting/)
 
 #### Coffee Break (10:30 - 11:00)
 
 #### Session 6 (11:00 - 12:15): [Using Pandas for Geospatial Analysis (cont.)](https://ornl-training.github.io/python-advanced-pandas/)
 
 * [Structuring the Data](https://ornl-training.github.io/python-advanced-pandas/03-structuring-data/)
-* [Using Classes](https://ornl-training.github.io/python-advanced-pandas/04-classes/)
+* [Object Oriented Programming](https://ornl-training.github.io/python-advanced-pandas/04-classes/)
 
 #### Lunch (12:15 - 13:00): Review morning session; address any outstanding issues
 
 #### Session 7 (13:00 - 15:00): [Using Pandas for Geospatial Analysis (cont.)](https://ornl-training.github.io/python-advanced-pandas/)
 
-* [An Emissions Class](https://ornl-training.github.io/python-advanced-pandas/05-emissions-class/)
+* [Creating an Emissions Class](https://ornl-training.github.io/python-advanced-pandas/05-emissions-class/)
 
 #### Coffee Break (15:00 - 15:30)
 
