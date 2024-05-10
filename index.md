@@ -2,13 +2,11 @@
 layout: default
 ---
 
-This is the website for ORNL's programming and data analytics courses for scientists. 
+This is the website for ORNL's training courses for scientists. 
 
 Currently the following courses are available:
 
-* [Scientific Programming with Python and C++]({{ page.url | prepend: site.github.url }}programming)
-* [Advanced Scientific Programming with Python and C++]({{ page.url | prepend: site.github.url }}advanced)
-* [Data Analytics for Earth Sciences (Under development)]({{ page.url | prepend: site.github.url }}data-analytics)
+* [ORNL Software Carpentry Workshop](https://ornl-training.github.io/2024-07-23-ORNL/)
 
 The goal of these courses is to teach scientists how to use computers more
 effectively to make their research easier. We avoid a lot of the theory that is
