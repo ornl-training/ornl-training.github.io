@@ -2,11 +2,10 @@
 layout: default
 ---
 
-This is the website for ORNL's training courses for scientists. 
+This is the website for ORNL's training courses for scientists. We offer both in-person and virtual courses.
 
-Currently the following courses are available:
-
-* [ORNL Software Carpentry Workshop](https://ornl-training.github.io/2024-07-23-ORNL/)
+* [In-Person Courses]({{ site.github_url }}/in-person)
+* [Virtual Courses]({{ site.github_url }}/virtual)
 
 The goal of these courses is to teach scientists how to use computers more
 effectively to make their research easier. We avoid a lot of the theory that is
