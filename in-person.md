@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# In-Person Workshops
+
 In-person sessions occur over multiple days. There will be multiple subject matter experts
 present for each session to help with any issues you encounter during the course.
 

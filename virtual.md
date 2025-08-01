@@ -2,8 +2,10 @@
 layout: default
 ---
 
-Virtual courses are run on Teams in two-hour sessions over multiple weeks.
+# Virtual Workshops
 
-## Upcoming Courses
+Virtual sessions are run on Teams in two-hour sessions over multiple weeks.
+
+## Upcoming Events
 
 Fall, 2025: Introduction to Programming with Julia
