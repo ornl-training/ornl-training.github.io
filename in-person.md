@@ -26,8 +26,8 @@ present for each session to help with any issues you encounter during the course
 [ORNL Today article](https://ornl.sharepoint.com/Pages/Article.aspx?articleId=47304)
 
 <div class="image-row">
-    <img alt="Picture of instructor live coding with students" src="/public/img/2025-P02687.jpg" width="50%">
-    <img alt="Picture of helpers working with students" src="/public/img/2025-P02691.jpg" width="50%">
+    <img alt="Picture of instructor live coding with students" src="{{ site.github.url }}/public/img/2025-P02687.jpg" width="50%">
+    <img alt="Picture of helpers working with students" src="{{ site.github.url }}/public/img/2025-P02691.jpg" width="50%">
 </div>
 
 ### ORNL Software Carpentry Workshop (July 23-25, 2024)

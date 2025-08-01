@@ -5,9 +5,9 @@ layout: default
 This is the website for software training workshops offered by the ORNL Carpentries team.
 
 <div class="image-row">
-    <img alt="Picture of person typing on a laptop" src="/public/img/2025-P02685.jpg" width="33%">
-    <img alt="Picture of green sticky note on laptop" src="/public/img/2025-P02690.jpg" width="33%">
-    <img alt="Picture of red sticky note on laptop" src="/public/img/2025-P02660.jpg" width="33%">
+    <img alt="Picture of person typing on a laptop" src="{{ site.github.url }}/public/img/2025-P02685.jpg" width="33%">
+    <img alt="Picture of green sticky note on laptop" src="{{ site.github.url }}/public/img/2025-P02690.jpg" width="33%">
+    <img alt="Picture of red sticky note on laptop" src="{{ site.github.url }}/public/img/2025-P02660.jpg" width="33%">
 </div>
 
 ## Topics We Cover
