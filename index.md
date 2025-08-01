@@ -42,7 +42,3 @@ the material.
 The ORNL Carpentries team is a collaborative group of data and software experts from across
 the lab, including the Research Library, CCSD, ITSD, and ESTD. Together, we provide hands-on
 training to help researchers build foundational software skills for their work.
-
-### People
-
-Headshots? Links to staff profiles?
