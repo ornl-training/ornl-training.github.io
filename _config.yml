@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Training for ORNL for Scientists
+title:            ORNL Software Training
 tagline:          'A Jekyll theme'
-description:      'Giving scientists the tools they need to use computers to do better science'
+description:      'Giving our workforce the tools they need to use computers to do better science'
 url:              http://ornl-training.github.io/
 baseurl:          /training
 

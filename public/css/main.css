@@ -1,0 +1,4 @@
+.image-row {
+    display: flex;
+    gap: 1em;
+}
