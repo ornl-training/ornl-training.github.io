@@ -6,7 +6,7 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            ORNL Software Training
+title:            ORNL Carpentries
 tagline:          'A Jekyll theme'
 description:      'Giving our workforce the tools they need to use computers to do better science'
 url:              http://ornl-training.github.io/
