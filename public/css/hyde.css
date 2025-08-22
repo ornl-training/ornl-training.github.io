@@ -56,8 +56,8 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
-  background-color: #202020;
+  color: rgba(255,255,255,.7);
+  background-color: #00662C; /* ORNL Green */
 }
 @media (min-width: 48em) {
   .sidebar {
