@@ -7,6 +7,12 @@ layout: default
 In-person sessions occur over multiple days. There will be multiple subject matter experts
 present for each session to help with any issues you encounter during the course.
 
+## Upcoming Events
+
+### Introduction to Programming with Python (Sept 18-19, 2025)
+
+[Registration Link](https://www.eventbrite.com/e/introduction-to-programming-with-python-tickets-1664591882129?aff=oddtdtcreator)
+
 ## Previous Events
 
 ### Introduction to Programming with Python (July 22-24, 2025)
