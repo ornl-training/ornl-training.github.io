@@ -6,7 +6,7 @@ layout: default
 
 Virtual sessions are run on Teams in short sessions.
 
-## Upcoming Events
+## Previous Events
 
 TBD
 
@@ -14,6 +14,8 @@ TBD
 
 ### Python Programming with uv (September 4th, 2025)
 
-[ORNL Today link](https://ornl.sharepoint.com/Pages/Article.aspx?articleId=48230&xsdata=MDV8MDJ8fDBiMzBlZjVmZmUxMDQzNmJjYjMzMDhkZGVhZjA5NWFmfGRiM2RiZDQzNGM0YjQ1NDQ5ZjhhMDU1M2Y5ZjVmMjVlfDB8MHw2Mzg5MjUwNDExODA4NTUwOTF8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDNSbFlXMXpMekU1T2pBM2VIWkhkMHBNYlVrMFowODJaMHcwTlZaWmJIVlRibFZKVG1rMVgwZFBlbUZSVmxnMlZXUkJaemd4UUhSb2NtVmhaQzUwWVdOMk1pOWphR0Z1Ym1Wc2N5OHhPVG94TnpBd09HTmtNbU5rWVRRMFpHWmpPR0prWm1Zek9EZ3dNVEV6TTJVeE9VQjBhSEpsWVdRdWRHRmpkakl2YldWemMyRm5aWE12TVRjMU5qa3dOek14TnpnMk53PT18MGE2MTUyYWEwMTFiNGZmMGNiMzMwOGRkZWFmMDk1YWZ8YjJkY2NjMWExOTg3NGIwODlmM2U5YzMxMmI5MGJiNDM%3D&sdata=TTJQSHZBRXJBdjZXVXlmUE1wem42UVJML3llRVN3eFg3K2ZSaU5hQk45WT0%3D&ovuser=db3dbd43-4c4b-4544-9f8a-0553f9f5f25e%2Cqid%40ornl.gov&OR=Teams-HL&CT=1756990687404&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI1MC8yNTA3MzExNzQxMCJ9)
+40 attendees
+
+[ORNL Today link](https://ornl.sharepoint.com/Pages/Article.aspx?articleId=48230)
 
 [Course Materials](https://ornl-training.github.io/python-with-uv/)

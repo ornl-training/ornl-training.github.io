@@ -12,8 +12,14 @@ This is the website for software training workshops offered by the ORNL Carpentr
 
 ## Topics We Cover
 
-We currently offer workshops on using [git](https://git-scm.com/){:target="_blank"},
-[Python](https://www.python.org/){:target="_blank"}, and [Julia](https://julialang.org/){:target="_blank"}.
+We currently offer the following workshops:
+* Introduction to Programming with Python
+* Python Programming with uv
+* Introduction to AI/ML with Python
+
+We are additionally in the process of developing workshops on the following subjects:
+* [Rust](https://rust-lang.org/){:target="_blank"}
+* [Julia](https://julialang.org/){:target="_blank"}
 
 If you're interested in other topics, [please contact us](https://forms.office.com/pages/responsepage.aspx?id=Q70920tMREWfigVT-fXyXhzneNUovu5PtGNjpXtVg8NUMTNMNDdKQUhFNFpMTjBEVEtSVjZLOUcwNC4u&origin=lprLink&route=shorturl){:target="_blank"}.
 
