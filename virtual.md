@@ -8,10 +8,6 @@ Virtual sessions are run on Teams in short sessions.
 
 ## Previous Events
 
-TBD
-
-## Past Events
-
 ### Python Programming with uv (September 4th, 2025)
 
 40 attendees
